@@ -43,7 +43,7 @@ SOCIAL = (
     ("wikipedia-w",      "https://en.wikipedia.org/wiki/User:Naereen"),
     ("envelope",         "mailto:naereen at crans dot org"),
     ("phone",            "tel:+33 6 28 41 22 57"),
-    ("rss",              "https://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
+    ("rss",              "https://perso.crans.org/besson/zero-dechet/feeds/all.atom.xml"),
 )
 # Icons : mapping of font-awesome icons to URL
 ICONS = SOCIAL
@@ -93,7 +93,7 @@ TYPOGRIFY = True
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-# Use my fork of the alchemy theme. See https://github.com/Naereen/cuisine/tree/master/themes/alchemy
+# Use my fork of the alchemy theme. See https://github.com/Naereen/Objectif-Zero-Dechet-2018/tree/master/themes/alchemy
 # THEME = "notmyidea"
 THEME = "themes/alchemy"
 
