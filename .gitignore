@@ -1,0 +1,7 @@
+*~
+_build/
+*.pyc
+__pycache__/
+output/
+issues/
+*.pid
