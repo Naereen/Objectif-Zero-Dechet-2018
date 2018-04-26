@@ -1,7 +1,7 @@
 Title: Je me lance dans le zéro déchet pour l'année 2018 !
 Category: journal
 Tags: journal, reussite, idee
-Summary: Je me lance dans le zéro déchet pour l'année 2018 !
+Summary: 💚 Bienvenue sur ce blog "Objectif Zéro Déchet" 🍃 ! Je me lance dans le zéro déchet pour l'année 2018 !
 
 💚 Bienvenue sur ce blog "Objectif Zéro Déchet" 🍃 !
 Je me lance dans le zéro déchet pour l'année 2018 !

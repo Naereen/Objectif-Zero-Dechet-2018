@@ -24,8 +24,8 @@ LINKS = (
     ("Sources (GitHub)", "https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018"),
     ("Idées",            "https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
     ("Mon site",         "https://perso.crans.org/besson/"),
-    ("Pelican",          "http://GetPelican.com/"),
-    ("Python",           "https://Python.org/"),
+    # ("Pelican",          "http://GetPelican.com/"),
+    # ("Python",           "https://Python.org/"),
     ("Famille Zéro Déchet",         "http://www.famillezerodechet.com/"),
 )
 
