@@ -1,6 +1,6 @@
 Title: Entrée vide (modèle)
-Category: Journal
-Tags: Journal, {echec/reussite}, {lien/idee}
+Category: journal
+Tags: journal, {echec/reussite}, {lien/idee}
 Summary: TODO
 
 TODO
