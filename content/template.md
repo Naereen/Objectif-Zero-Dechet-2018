@@ -1,24 +1,13 @@
-Title: Recette vide (modèle)
-Category: Recette
-Tags: recette, {boisson/plat/dessert}, {facile/moyen/difficile}
-Summary: Recette pour TODO
+Title: Entrée vide (modèle)
+Category: Journal
+Tags: Journal, {echec/reussite}, {lien/idee}
+Summary: TODO
 
-Recette pour TODO
+TODO
 
-## Ingrédients
-- [Ingrédient 1](https://fr.wikipedia.org/wiki/TODO),
-- [Ingrédient 2](https://fr.wikipedia.org/wiki/TODO),
-- [Ingrédient 3](https://fr.wikipedia.org/wiki/TODO),
-- [Ingrédient 4](https://fr.wikipedia.org/wiki/TODO).
+## TODO
 
-## Préparation
-1. Étape 1,
-2. Étape 2,
-3. Étape 3,
-4. Étape 4.
+## TODO
 
 ## Photo
 [![TODO]({filename}images/blank.png)](#)
-
-## Remarques
-- TODO

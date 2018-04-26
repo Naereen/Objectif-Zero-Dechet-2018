@@ -8,7 +8,7 @@
 # build` command, or in the 'index.md' file of the source directory.
 # The priority order is: cli option > settings file > index.md file
 # title = "Sigal test gallery"
-title = u"Photos - Blog de cuisine - 2017/2018"
+title = u"Photos - Blog Objectif Zéro Déchet - 2018"
 
 # ---------------------
 # General configuration
@@ -28,7 +28,7 @@ destination = '_build'
 theme = 'galleria'
 
 # Author. Used in the footer of the pages and in the author meta tag.
-author = u"Lilian Besson, 2017-2018"
+author = u"Lilian Besson, 2018"
 
 # Use originals in gallery (default: False). If True, this will bypass all
 # processing steps (resize, auto-orient, recompress, and any plugin-specific
@@ -190,7 +190,7 @@ ignore_files = [
 
 # Set zip_gallery to either False or a file name. The final archive will
 # contain all resized or original files (depending on `zip_media_format`).
-zip_gallery = 'cuisine_images.zip'
+zip_gallery = 'zero-dechet_images.zip'
 zip_gallery = False   # False or 'archive.zip'
 # zip_media_format = 'resized'  # 'resized' or 'orig'
 zip_media_format = 'orig'
@@ -226,7 +226,7 @@ plugins = [
 
 # Add a copyright text on the image (default: '')
 # copyright = "© An example copyright message"
-copyright = "(C) 2017-2018"
+copyright = "(C) 2018"
 
 # Adjust the image after resizing it. A default value of 1.0 leaves the images
 # untouched.

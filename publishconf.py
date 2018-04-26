@@ -11,9 +11,9 @@ sys.path.append(os.curdir)
 
 from pelicanconf import *
 
-# SITEURL = "//localhost/cuisine"
+# SITEURL = "//localhost/zero-dechet"
 # XXX to build the site locally, comment this line
-SITEURL = "//perso.crans.org/besson/cuisine"
+SITEURL = "//perso.crans.org/besson/zero-dechet"
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
@@ -25,4 +25,4 @@ DELETE_OUTPUT_DIRECTORY = True
 
 GOOGLE_ANALYTICS = "UA-38514290-1"
 
-GITHUB_URL = "https://github.com/Naereen/cuisine"
+GITHUB_URL = "https://github.com/Naereen/Objectif-Zero-Dechet-2018"

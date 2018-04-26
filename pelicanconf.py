@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Recettes de cuisine - par Lilian Besson"
+SITENAME = "Objectif Zéro Déchet pour l'année 2018 - par Lilian Besson"
 AUTHOR = "Lilian Besson"
 SITEURL = ""
 
@@ -21,17 +21,17 @@ AUTHOR_FEED_RSS       = None
 
 # Blogroll
 LINKS = (
-    ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Prochaines idées", "https://github.com/Naereen/cuisine/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
-    ("Mon site",         "//perso.crans.org/besson/"),
+    ("Sources (GitHub)", "https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018"),
+    ("Idées",            "https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"),
+    ("Mon site",         "https://perso.crans.org/besson/"),
     ("Pelican",          "http://GetPelican.com/"),
-    ("Python",       "https://Python.org/"),
-    ("Marmiton",     "http://marmiton.org/"),
+    ("Python",           "https://Python.org/"),
+    ("Famille Zéro Déchet",         "http://www.famillezerodechet.com/"),
 )
 
 MENU_LINKS = (
-    ("Sources (GitHub)", "https://GitHub.com/Naereen/cuisine"),
-    ("Mon site",         "//perso.crans.org/besson/"),
+    ("Sources (GitHub)", "https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018"),
+    ("Mon site",         "https://perso.crans.org/besson/"),
 )
 
 # Social widget
@@ -39,11 +39,11 @@ SOCIAL = (
     ("github",           "https://GitHub.com/Naereen"),
     ("bitbucket",        "https://Bitbucket.org/lbesson"),
     ("facebook",         "https://www.Facebook.com/naereencorp.lbesson"),
-    ("address-card",     "//perso.crans.org/besson/callme.html"),
+    ("address-card",     "https://perso.crans.org/besson/callme.html"),
     ("wikipedia-w",      "https://en.wikipedia.org/wiki/User:Naereen"),
     ("envelope",         "mailto:naereen at crans dot org"),
     ("phone",            "tel:+33 6 28 41 22 57"),
-    ("rss",              "//perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
+    ("rss",              "https://perso.crans.org/besson/cuisine/feeds/all.atom.xml"),
 )
 # Icons : mapping of font-awesome icons to URL
 ICONS = SOCIAL
@@ -54,7 +54,7 @@ DEFAULT_PAGINATION = 10
 # Dates of articles from the file modification
 DEFAULT_DATE = "fs"
 
-DEFAULT_CATEGORY = "recette"
+DEFAULT_CATEGORY = "journal"
 
 # Get copied to the output
 STATIC_PATHS = [
@@ -71,9 +71,9 @@ FAVICON = "/images/favicon.ico"
 # Cf. https://stackoverflow.com/questions/31270373/how-to-add-a-favicon-to-a-pelican-blog#31270471
 EXTRA_PATH_METADATA = {
     # "extra/robots.txt": {"path": "robots.txt"},
-    "extra/favicon.ico": {"path": "favicon.ico"},
-    "extra/LICENSE": {"path": "LICENSE"},
-    "extra/README": {"path": "README"},
+    "extra/favicon.ico":  {"path": "favicon.ico"},
+    "extra/LICENSE":      {"path": "LICENSE"},
+    "extra/README":       {"path": "README"},
 }
 
 # Logo
@@ -82,7 +82,7 @@ AVATAR = SITEIMAGE = LOGO = LOGOPATH
 
 # Description and welcome message of the site
 # Two emojis in UTF8
-DESCRIPTION = "Des recettes classiques \U0001F378 et des expériences en cuisine \u2728 !"
+DESCRIPTION = u"💚 Objectif Zéro Déchet 🍃 pour l'année 2018 : je me lance ! 🇫🇷 📒 Petit blog en français qui raconte mes expériences et mes progrès pour être 100% zéro déchet !"
 WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
 # Improve typography
