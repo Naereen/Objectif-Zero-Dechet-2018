@@ -29,11 +29,11 @@ Ils proposent des sachets en papier, mais j'ai acheté du muesli et des fruits s
 - Bien qu'ayant demandé aucun emballage, la fromagère m'a quand même mis un morceau de papier au fond de ma boite hermétique pour les fromages… La prochaine fois, il faudra demander plus précisément !
 - Pas possible non plus de demander à ne pas avoir le ticket de caisse, dans aucune boutique… Combien de temps continuerons-nous à imprimer ces minuscules tickets qui finissent directement à la poubelle ?
 
-Conclusion : très positif, je reviendrai souvent ! Mais il faut être plus précis et plus insistant.
+**Conclusion** : très positif, je reviendrai souvent ! Mais il faut être plus précis et plus insistant.
 
 ## Carrefour Market
-- Pas possible de demander la tare pour les produits en vrac à Carrefour, résultat j'ai probablement payé 1.5€ de plus mon muesli (à 9€ le kilo et presque 150 ma boite vide…). C'est dommage, ça ne donne pas envie de continuer… En fait non, ça donne juste envie d'aller dans de vraies boutiques en vrac ! (plus dans les prochains articles !)
+- Pas possible de demander la tare pour les produits en vrac à Carrefour, résultat j'ai probablement payé 1.5€ de plus mon muesli (à 9€ le kilo et presque 150 g ma boite vide…). C'est dommage, ça ne donne pas envie de continuer… En fait non, ça donne juste envie d'aller dans de vraies boutiques en vrac ! (plus dans les prochains articles !)
 - Le distributeur du muesli en vrac à Carrefour est un peu bourrin, il laisse passer très rapidement de grosse quantité… Résultat, ma boite remplie en 2 secondes, et en plus une quantité non négligeable de muesli restait dans le tube (mais plus dans le pot), donc le vendeur m'a demandé d'aussi acheter la quantité supplémentaire (heureusement j'avais une deuxième boite). Mais bon, presque 50% en plus par rapport à ce que je comptais acheter pour essayer…
 - Déçu de la qualité du muesli bio en vrac. Presque deux fois plus cher que le muesli classique que j'achète d'habitude, et moins bon, vraiment… J'ai du mal à être motivé à payer plus pour moins bon, "juste" pour ne pas consommer de plastique.
 
-Conclusion : je vais essayer dans d'autres boutiques, et d'autres produits !
+**Conclusion** : je vais essayer dans d'autres boutiques, et d'autres produits !
