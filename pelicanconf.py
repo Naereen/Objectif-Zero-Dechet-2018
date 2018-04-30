@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-SITENAME = "Objectif Zéro Déchet pour l'année 2018 - par Lilian Besson"
+SITENAME = "Objectif Zéro Déchet"
 AUTHOR = "Lilian Besson"
 SITEURL = ""
 
@@ -82,7 +82,7 @@ AVATAR = SITEIMAGE = LOGO = LOGOPATH
 
 # Description and welcome message of the site
 # Two emojis in UTF8
-DESCRIPTION = u"💚 Objectif Zéro Déchet 🍃 pour l'année 2018 : je me lance ! 🇫🇷 📒 Petit blog en français qui raconte mes expériences et mes progrès pour être 100% zéro déchet !"
+DESCRIPTION = u"🇫🇷 📒 Mes expériences et mes progrès, objectif zéro déchet 🍃 pour l'année 2018 !"
 WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
 # Improve typography
@@ -109,6 +109,8 @@ PLUGINS = [
     "neighbors",
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
     "random_article",
+    # https://github.com/getpelican/pelican-plugins/tree/master/section_number
+    "section_number",
     # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
     "simple_footnotes",
     # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
@@ -146,7 +148,9 @@ MARKDOWN = {
         "plugins.mdx_unimoji.mdx_unimoji:UnimojiExtension"
     ],
     "extension_configs": {
-        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.codehilite": {
+            "css_class": "highlight"
+        },
         "markdown.extensions.extra": {},
         "markdown.extensions.meta": {},
         "markdown.extensions.toc": {},
