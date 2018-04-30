@@ -1,7 +1,7 @@
 # 💚 Objectif Zéro Déchet 🍃 pour l'année 2018 : je me lance !
 ## *🇫🇷 📒 Petit blog en français qui raconte mes expériences et mes progrès pour être 100% zéro déchet !*
 
-Ce projet contiens les sources pour [ce dossier](https://perso.crans.org/besson/zero-dechet/) sur [mon site web](https://perso.crans.org/besson/), qui contient un petit blog, écrit depuis avril 2018.
+Ce projet contient les sources pour [ce dossier](https://perso.crans.org/besson/zero-dechet/) sur [mon site web](https://perso.crans.org/besson/), qui contient un petit blog, écrit depuis avril 2018.
 Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer (presque) complètement ma consommation de déchets non recyclable, d'ici décembre 2018.
 
 [![screenshot.png](screenshot.png)](https://perso.crans.org/besson/zero-dechet/)
