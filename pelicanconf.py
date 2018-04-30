@@ -110,13 +110,13 @@ PLUGINS = [
     # https://github.com/getpelican/pelican-plugins/tree/master/random_article
     "random_article",
     # https://github.com/getpelican/pelican-plugins/tree/master/section_number
-    "section_number",
-    # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
+    # "section_number",
+    # # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
     "simple_footnotes",
     # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
-    # "tag_cloud",  # XXX is ugly!
-    # See https://github.com/Naereen/cuisine/issues/101
 ]
+
+SECTION_NUMBER_MAX = 5
 
 # "global_license" extension, I don't know how it works
 LICENSE = "<a href='https://lbesson.MIT-License.org/'>Licence MIT</a>"

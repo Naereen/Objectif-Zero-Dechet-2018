@@ -15,7 +15,7 @@ Ce petit blog 📒 en français 🇫🇷 sera là pour raconter mes expériences
 
 ---
 
-## Objectif de ce blog
+# Objectif de ce blog
 
 J'ai l'espoir d'alimenter ce blog au moins deux fois par mois (comme j'y arrive [pour cet autre blog sur des recettes de cuisine](https://perso.crans.org/besson/cuisine/)), pour y parler de différentes choses :
 
@@ -28,7 +28,7 @@ J'ai l'espoir d'alimenter ce blog au moins deux fois par mois (comme j'y arrive 
 
 Je souhaite commencer ce blog par une petite session "question-réponse"[ref]Pour la foire aux questions du blog FamilleZeroDechet, c'est [par ici](http://www.famillezerodechet.com/fouarokestion) ![/ref] :
 
-## *C'est quoi le zéro déchet ?*
+# *C'est quoi le zéro déchet ?*
 
 C'est un objectif, un idéal. Ne consommer et ne produire **aucun** déchets non recyclables.
 Bien sûr, c'est presque impossible, avec le mode de vie contemporain[ref]Mode de vie contemporain, si on vit en ville et en Europe ou Amérique du Nord.[/ref]…
@@ -39,7 +39,7 @@ Il est presque impossible de supprimer complètement la consommation de déchets
 
 ---
 
-## *Polluer moins ? Ah mais c'est une idée d'écolos ?*
+# *Polluer moins ? Ah mais c'est une idée d'écolos ?*
 
 Oui, exactement. Mais ce n'est pas une lubie, ou une mode, ou un genre pour se la jouer "petit bobo".
 
@@ -54,14 +54,14 @@ Ainsi, sous l'étiquette **"zéro déchet"**, il y a d'abord cette **idée d'ach
 
 ---
 
-## *Et tu y arrives ? Ça a l'air dur !*
+# *Et tu y arrives ? Ça a l'air dur !*
 
 Non je n'y suis pas encore, j'en suis même loin.
 Mais je suis motivé à y parvenir, et je me suis posé des objectifs clairs ([voir cet article](objectifs-initiaux-tels-que-je-mes-les-pose-le-26-avril-2018.html)).
 
 ---
 
-## *Tu faisais déjà des efforts avant, alors pourquoi s'embêter davantage ?*
+# *Tu faisais déjà des efforts avant, alors pourquoi s'embêter davantage ?*
 
 Effectivement, cela fait des années[ref]En fait, depuis que je vis seul ![/ref] que je fais des efforts, et pas qu'un peu.
 Depuis 2009, j'ai réussi notamment à :
@@ -82,7 +82,7 @@ Je veux me focaliser sur les améliorations qu'il me reste à faire !
 
 ---
 
-## *Quelles échéances te donnes-tu, pour quels objectifs ?*
+# *Quelles échéances te donnes-tu, pour quels objectifs ?*
 
 - Je vais mesurer le nombre de poubelles que je produit, chaque mois, et essayer de réduire au maximum les poubelles de déchets non recyclables. Sans pour autant tripler le volume de déchets recyclables, ce serait un peu tricher.
 - Je ferai un bilan en novembre, en espérant **réduire d'au moins 75% mon volume de déchets non recyclables en 6 mois** !
@@ -100,7 +100,7 @@ Je veux me focaliser sur les améliorations qu'il me reste à faire !
 
 ---
 
-## *Tu vas y arriver ?*
+# *Tu vas y arriver ?*
 
 Oui. Évidemment. J'arriverais à réduire mes déchets et à consommer encore plus local, encore plus propre, encore plus bio et tout ce qu'on veut 😀 !
 
@@ -109,7 +109,7 @@ Mais ce ne sera pas assez, il faudra continuer à améliorer ça, et en parler a
 
 ---
 
-## *Et vous, vous allez essayer ?*
+# *Et vous, vous allez essayer ?*
 
 Je compte sur vous.
 
@@ -117,4 +117,4 @@ Si vous êtes intéressé, [cette page du blog de la famille "Zéro Déchet" est
 
 ---
 
-## Notes
+# Notes
