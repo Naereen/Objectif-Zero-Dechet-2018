@@ -18,11 +18,11 @@ def getText(node, recursive=False):
     for n in node.childNodes:
         if n.nodeType in (node.TEXT_NODE, node.CDATA_SECTION_NODE):
             L.append(n.data)
-        else:
+        # else:
         #     print("n =", n)  # DEBUG
         #     print("dir(n) =", [ d for d in dir(n) if not d.startswith('_')])  # DEBUG
-            if not recursive:  # XXX that was wrong!
-                return None
+        #     if not recursive:  # XXX that was wrong!
+        #         return None
         if recursive:
             L.append(getText(n))
     return u''.join(L)
