@@ -10,8 +10,10 @@ Je me lance dans le zéro déchet pour l'année 2018 !
 
 Ce petit blog 📒 en français 🇫🇷 sera là pour raconter mes expériences et mes progrès pour être 100% zéro déchet !
 
-1. Ce sera à la fois un journal numérique [ref]Sans papier donc ! Bon… je sais qu'héberger des fichiers en ligne et les distribuer sur Internet, ça consomme aussi du pétrole, du carbone etc…[/ref] dans mon aventure dans le zéro déchet, dans le but de supprimer (presque) complètement ma consommation de déchets non recyclable, d'ici décembre 2018.
+1. Ce sera à la fois un journal numérique[ref]Sans papier donc ! Bon… je sais qu'héberger des fichiers en ligne et les distribuer sur Internet, ça consomme aussi du pétrole, du carbone etc…[/ref] dans mon aventure dans le zéro déchet, dans le but de supprimer (presque) complètement ma consommation de déchets non recyclable, d'ici décembre 2018.
 2. Et aussi un endroit privilégié où partager des idées, des recettes, etc.
+
+---
 
 ## Objectif de ce blog
 
@@ -35,6 +37,8 @@ Dans ce blog, "déchet" signifie tout ce que vous jetez dans vos poubelles, et "
 
 Il est presque impossible de supprimer complètement la consommation de déchets, donc l'objectif plus réaliste est de réduire au maximum ses déchets non recyclables et privilégier un mode de vie qui permet de polluer moins, de produire moins de déchets dégueu, et tout ça sans dépenser plus et sans "perdre" trop de temps.
 
+---
+
 ## *Polluer moins ? Ah mais c'est une idée d'écolos ?*
 
 Oui, exactement. Mais ce n'est pas une lubie, ou une mode, ou un genre pour se la jouer "petit bobo".
@@ -48,10 +52,14 @@ Ainsi, sous l'étiquette **"zéro déchet"**, il y a d'abord cette **idée d'ach
 - **Privilégier les produits de seconde main** : pas besoin d'acheter un jean tout neuf chaque semaine, pas besoin d'acheter des jeux vidéos neufs quand ils se trouvent d'occasion quelques semaines après leurs sorties, pas besoin d'accumuler une collection de DVD quand plein de services en ligne proposent de la vidéo à la demande pour des tarifs corrects[ref]Ou qu'on accepte de rentrer dans l'illégalité et de pirater…[/ref], et ainsi de suite pour tout ce qui peut s'acheter d'occasions : livre, ustensiles de cuisine, pièces de vélo.
 - **Privilégier les achats sans emballage** : pour beaucoup d'autres produits, on ne peut faire autrement que les acheter neufs. Pour de la lessive, on l'achète ou on la fabrique, mais il faut acheter du neuf à un moment ou un autre ! Par contre, on peut (que dis, on *doit* !) faire l'effort de produire le moins de déchet possible, donc soit d'acheter de la lessive en vrac[ref]La lessive en vrac s'achète en rapportant à chaque fois sa bouteille : en plastique si elle date d'un ancien achat, ou en verre pour ne vraiment plus utiliser de plastique.[/ref], soit on achète en vrac (avec ses bouteilles) les produits pour la fabriquer soi-même. Et ainsi de suite pour tout : on privilégie les pâtes vendues en carton recyclable sans la-petite-fenêtre-en-plastique-qui-sert-à-rien, le riz et autres céréales en vrac, les épices en vrac (bah oui, vous avez déjà 30 pots dans votre placard, pourquoi en acheter un nouveau à chaque fois) etc.
 
+---
+
 ## *Et tu y arrives ? Ça a l'air dur !*
 
 Non je n'y suis pas encore, j'en suis même loin.
 Mais je suis motivé à y parvenir, et je me suis posé des objectifs clairs ([voir cet article](objectifs-initiaux-tels-que-je-mes-les-pose-le-26-avril-2018.html)).
+
+---
 
 ## *Tu faisais déjà des efforts avant, alors pourquoi s'embêter davantage ?*
 
@@ -72,11 +80,15 @@ Depuis 2009, j'ai réussi notamment à :
 Je pourrai continuer la liste des initiatives que j'ai déjà prises et intégrées, mais ce n'est pas le but de ce poste ni de ce blog.
 Je veux me focaliser sur les améliorations qu'il me reste à faire !
 
+---
+
 ## *Quelles échéances te donnes-tu, pour quels objectifs ?*
 
 - Je vais mesurer le nombre de poubelles que je produit, chaque mois, et essayer de réduire au maximum les poubelles de déchets non recyclables. Sans pour autant tripler le volume de déchets recyclables, ce serait un peu tricher.
 - Je ferai un bilan en novembre, en espérant **réduire d'au moins 75% mon volume de déchets non recyclables en 6 mois** !
 - J'espère réussir, comme [cette famille "Zéro Déchet"](http://www.famillezerodechet.com/), à **réduire de 90% mes déchets non recyclables en un an** !
+
+---
 
 # *Comment est-ce possible ?*
 
@@ -86,6 +98,8 @@ Je veux me focaliser sur les améliorations qu'il me reste à faire !
 - Je vais réduire au maximum les achats (alimentaires et autre) avec emballage, en préférant les achats sans emballages (fruits & légumes), en vrac (épices, céréales, produits d'entretient, viandes, poissons, fromages etc), et les emballages recyclables (*e.g.*, pâtes avec juste un carton, yaourt ou jus de fruit en pot en verre) et au maximum 100% recyclables (peut-on trouver du lait sans la petite opercule en alu ?).
 - Je vais consommer encore moins d'horreurs qui polluent trop ou produisent trop de déchets. Finies les cartes SD venant par colis depuis la Chine (merci l'occasion), finies les carottes rappées en emballage plastique, finies les biscuits et gateaux tout prêts emballées dans des pièges-à-poissons-et-à-tortues-de-mer…
 
+---
+
 ## *Tu vas y arriver ?*
 
 Oui. Évidemment. J'arriverais à réduire mes déchets et à consommer encore plus local, encore plus propre, encore plus bio et tout ce qu'on veut 😀 !
@@ -93,8 +107,14 @@ Oui. Évidemment. J'arriverais à réduire mes déchets et à consommer encore p
 Mais ce ne sera pas assez. Je ferai un bilan début novembre prochain, dans 6 mois, et j'espère avoir d'ici là réussi à réduire beaucoup ma consommation et production de déchets.
 Mais ce ne sera pas assez, il faudra continuer à améliorer ça, et en parler autour de soi, convaincre les amis et la famille, mais aussi les collègues par exemple.
 
+---
+
 ## *Et vous, vous allez essayer ?*
 
 Je compte sur vous.
 
 Si vous êtes intéressé, [cette page du blog de la famille "Zéro Déchet" est à lire](http://www.famillezerodechet.com/fouarokestion).
+
+---
+
+## Notes

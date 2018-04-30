@@ -1,9 +1,18 @@
 Title: Objectifs initiaux tels que je mes les pose le 26 avril 2018
 Category: journal
-Tags: journal, {echec/reussite}, {lien/idee}
+Tags: journal, objectif
 Summary: Objectifs initiaux de mon aventure "Zéro Déchet", tels que je mes les pose le 26 avril 2018
 
 Ce petit article a pour but de fixer les objectifs initiaux de mon aventure "Zéro Déchet", tels que je mes les pose le 26 avril 2018.
+
+Comme je l'explique [dans le premier article de ce blog](je-me-lance-dans-le-zero-dechet-pour-lannee-2018.html), voici ce que je compte faire pour 2018 :
+
+- Je vais mesurer le nombre de poubelles que je produit, chaque mois, et essayer de réduire au maximum les poubelles de déchets non recyclables. Sans pour autant tripler le volume de déchets recyclables, ce serait un peu tricher.
+- Je ferai un bilan en novembre, en espérant **réduire d'au moins 75% mon volume de déchets non recyclables en 6 mois** !
+- J'espère réussir, comme [cette famille "Zéro Déchet"](http://www.famillezerodechet.com/), à **réduire de 90% mes déchets non recyclables en un an** !
+
+Et je continuerai dans ces directions à l'avenir (évidemment).
+En attendant, cette page liste un peu les différents objectifs que je me fixe pour réussir à réduire autant ma consommation et production de déchets non recyclables et "l'impact carbone de ma vie".
 
 ## Aperçu de cette liste
 
