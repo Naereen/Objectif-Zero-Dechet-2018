@@ -19,9 +19,13 @@ L'échange serait cocasse s'il n'en était pas triste :
 J'ai insisté un peu dans la deuxième boulangerie, en demandant directement de ne pas avoir de boite, ni d'emballage.
 
 > − S'il vous plaît, j'ai déjà un sachet, est-ce que je pourrai ne pas avoir de boite et pas d'emballage ?
+>
 > − Non, *on ne peut pas*.
+>
 > − Mais je n'ai pas besoin de boîte, j'ai des sachets pour chaque pâtisseries !
+>
 > − J'ai déjà sorti la boîte, et puis on fait toujours comme ça.
+>
 > − C'est bête, je vous assure la boîte va m'encombrer dans ma sacoche !
 
 *On ne peut pas* ? Il y a une loi qui interdit de vendre plus de deux pâtisseries sans l'horrible boîte en carton glacé-et-bientôt-taché-de-sucre-donc-recyclable ?
