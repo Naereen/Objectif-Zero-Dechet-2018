@@ -14,9 +14,9 @@ Le bus qui prend 48 minutes entre les gares de Montparnasse et Lyon m'a achevé.
 
 ## Milieu :boom:
 
-Je voulais apporter du dessert chez les généreux amis qui m'ont accueilli vendredi soir, et en faisant deux boulangeries à Rennes, je n'en ai pas trouvé qui accepté de me vendre quelques pâtisseries sans emballage ni boite en carton (pourtant, j'avais des sachets papiers dans mon sac, près à être utilisé).
-L'échange serait cocasse s'il n'en était pas triste :
+Je voulais apporter du dessert chez les généreux amis qui m'ont accueilli vendredi soir, et en faisant deux boulangeries à Rennes, je n'en ai pas trouvé qui acceptait de me vendre quelques pâtisseries sans emballage ni boite en carton (pourtant, j'avais des sachets papiers dans mon sac, près à être utilisé).
 J'ai insisté un peu dans la deuxième boulangerie, en demandant directement de ne pas avoir de boite, ni d'emballage.
+L'échange serait cocasse s'il n'en était pas triste :
 
 > − S'il vous plaît, j'ai déjà un sachet, est-ce que je pourrai ne pas avoir de boite et pas d'emballage ?
 > − Non, *on ne peut pas*.
