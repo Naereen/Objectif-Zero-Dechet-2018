@@ -1,9 +1,9 @@
-Title: Objectifs initiaux tels que je mes les pose le 26 avril 2018
+Title: Objectifs initiaux tels que je me les pose le 26 avril 2018
 Category: journal
 Tags: journal, objectif
-Summary: Objectifs initiaux de mon aventure "Zéro Déchet", tels que je mes les pose le 26 avril 2018
+Summary: Objectifs initiaux de mon aventure "Zéro Déchet", tels que je me les pose le 26 avril 2018
 
-Ce petit article a pour but de fixer les objectifs initiaux de mon aventure "Zéro Déchet", tels que je mes les pose le 26 avril 2018.
+Ce petit article a pour but de fixer les objectifs initiaux de mon aventure "Zéro Déchet", tels que je me les pose le 26 avril 2018.
 
 ---
 
