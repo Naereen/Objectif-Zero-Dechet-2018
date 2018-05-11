@@ -86,16 +86,18 @@ J'ai l'espoir :pray: que certains autres magasins (à Rennes) me permettent de c
 
 - :wine_glass: :smile: Ils proposent du vin bio en vrac, on peut remplir sa propre bouteille ! C'est cool ! Je le goûte la prochaine fois !
 - :four_leaf_clover:  Leurs salades vertes bio avaient vraiment une sale tête… Celles du marché place des Lices ou de la Halle Liberté sont très bonnes (et bio si on chercher) !
-- :eggplant: :tomato: La moitié des légumes que j'achète souvent étaient soit disant bio mais venaient de loin : 🇺🇸 *USNA*[ref]**United States of North America**. Bah oui, les "USA" (United States of *America*) c'est un nom pourri : le 🇲🇽 Mexique est aussi en Amérique, et… s'[appelle officiellement *United States of Mexico*](https://fr.wikipedia.org/wiki/Mexique). Voilà, c'est dit ! [Cf. aussi la page Wikipédia anglophone du Mexique](https://en.wikipedia.org/wiki/Mexico).[/ref], 🇮🇱 Israël, 🇨🇳 Chine… ou de moins loin mais déjà de trop loin : 🇪🇸 Espagne, 🇲🇦 Maroc etc ! Je ne sais pas ce qui est le mieux, entre une patate douce :sweet_potato: "bio" venant de l'autre côté de l'Atlantique :boat: et une non bio venant de Loire Atlantique (comme ce que je trouve au marché de la place des Lices), mais j'ai tendance à préférer le produit français et "local" (ou pas trop loin).
+- :eggplant: :tomato: La moitié des légumes que j'achète souvent étaient soit disant bio mais venaient de loin : 🇺🇸 *USNA*[ref]**United States of North America**. Bah oui, les "USA" (United States of *America*) c'est un nom pourri : le 🇲🇽 Mexique est aussi en Amérique, et… s'[appelle officiellement *United States of Mexico*](https://fr.wikipedia.org/wiki/Mexique). Voilà, c'est dit ! [Cf. aussi la page Wikipédia anglophone du Mexique](https://en.wikipedia.org/wiki/Mexico).[/ref], 🇮🇱 Israël, 🇨🇳 Chine… ou de moins loin mais déjà de trop loin : 🇪🇸 Espagne, 🇲🇦 Maroc etc ! 
+
+> Je ne sais pas ce qui est le mieux, entre une patate douce :sweet_potato: "bio" venant de l'autre côté de l'Atlantique :boat: et une non bio venant de Loire Atlantique (comme ce que je trouve au marché de la place des Lices), mais j'ai tendance à préférer le produit français et "local" (ou pas trop loin).
 
 ---
 
 ## À propos de ce que je n'ai pas trouvé
 
-- :snowflake: Je cherchais du sucre glace en vrac, apparemment ça n'existe pas :unamused:.
-- :bread: Pas de brioche sans emballage non plus :cry:, et la brioche bio 4 fois plus chère que la non bio de Carrefour, j'ai du mal à adhérer. (ah oui, et même si elle est marquée "bio", certains ingrédients ne le sont pas…)
-- :cheese: 🗑 Dans cette biocoop, aucun fromage sans emballage :cry:. Pas grave, j'en trouve au marché de la place des Lices, ou à la Halle Liberté (à Rennes).
-- :bread: Pareil, aucun pain sans emballage :cry:, heureusement les deux boulangeries de la Rue de Paris à Rennes (juste à côté) sont d'accord pour vendre leur pain (et le reste) sans emballage :smiley: (dans mes sachets ou sans sachet du tout).
+- :snowflake: Je cherchais du sucre glace en vrac, apparemment ça n'existe pas 😒.
+- :bread: Pas de brioche sans emballage non plus 😒, et la brioche bio 4 fois plus chère que la non bio de Carrefour, j'ai du mal à adhérer. (ah oui, et même si elle est marquée "bio", certains ingrédients ne le sont pas…)
+- :cheese: 🗑 Dans cette biocoop, aucun fromage sans emballage :😒. Pas grave, j'en trouve au marché de la place des Lices, ou à la Halle Liberté (à Rennes).
+- :bread: Pareil, aucun pain sans emballage 😒, heureusement les deux boulangeries de la Rue de Paris à Rennes (juste à côté) sont d'accord pour vendre leur pain (et le reste) sans emballage :smiley: (dans mes sachets ou sans sachet du tout).
 - :meat_on_bone: Pareil, pas de charcuterie sans emballage (et un choix un peu ridicule dans le rayon frais :unamused: !). Pas grave non plus, il y a deux bons boucher-charcutiers à la Halle Liberté !
 - Pas de moutarde en vrac, je m'en doutais… Et pas vraiment convaincu par la moutarde bio, je continuerai d'acheter des pots d'720 g à Carrefour, car les gros pots en verre me servent bien aussi ! (et 720 g de moutarde, ça dure !)
 - Pas de pâtes à tartiner pour apéro (tzatziki, houmous, caviar d'aubergines, tapenades etc) sans emballage, mais ça se trouve au marché des Lices !
