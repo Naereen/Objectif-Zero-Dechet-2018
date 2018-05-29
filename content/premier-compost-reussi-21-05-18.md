@@ -11,9 +11,9 @@ En une semaine, j'ai beaucoup cuisiné (merci le weekend de trois jours), et bea
 Lorsque l'association [Vert le Jardin](https://www.vertlejardin.fr/) distribue des seaux à composts, elle vous explique aussi où aller vider le sien.
 Dans mon cas, c'est [au jardin d'Alphonse](https://fabriquecitoyenne.rennes.fr/blog/budget-participatif-2-des-ruches-pedagogiques-au-jardin-d-alphonse) ([situé ici](https://goo.gl/maps/twY5h5KwxEs)), un jardin partagé situé à quelques minutes de chez moi.
 
-Pour trouver le jardin partagé ou le compost partagé le plus près de chez vous, [ce site](https://rennes.carte-ouverte.org/rennes#categories) est idéal !
+Pour trouver le jardin partagé ou le compost partagé le plus près de chez vous, [ce site](https://rennes.carte-ouverte.org/rennes#categories) est idéal ! ([rennes.carte-ouverte.org](https://rennes.carte-ouverte.org)) Dommage que l'initiative ne soit pas nationale !
 
-[![premier-compost-reussi-21-05-18-3.jpg]({filename}images/premier-compost-reussi-21-05-18-3.jpg){width=50%}](https://rennes.carte-ouverte.org/?zoom=18&lat=6125221.71353&lon=-184596.1128&layers=BTT&checked_categories=65,130,131,132&display_submited=false)
+[![premier-compost-reussi-21-05-18-3.png]({filename}images/premier-compost-reussi-21-05-18-3.png){width=75%}](https://rennes.carte-ouverte.org/?zoom=18&lat=6125221.71353&lon=-184596.1128&layers=BTT&checked_categories=65,130,131,132&display_submited=false)
 
 ---
 
