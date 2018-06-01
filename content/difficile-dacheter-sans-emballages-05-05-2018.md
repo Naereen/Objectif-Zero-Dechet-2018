@@ -19,12 +19,16 @@ J'ai insisté un peu dans la deuxième boulangerie, en demandant directement de 
 L'échange serait cocasse s'il n'en était pas triste :
 
 > − S'il vous plaît, j'ai déjà un sachet, est-ce que je pourrai ne pas avoir de boite et pas d'emballage ?
+>
 > − Non, *on ne peut pas*.
+>
 > − Mais je n'ai pas besoin de boîte, j'ai des sachets pour chaque pâtisseries !
+>
 > − J'ai déjà sorti la boîte, et puis on fait toujours comme ça.
+>
 > − C'est bête, je vous assure la boîte va m'encombrer dans ma sacoche !
 
-*On ne peut pas* ? Il y a une loi qui interdit de vendre plus de deux pâtisseries sans l'horrible boîte en carton glacé-et-bientôt-taché-de-sucre-donc-recyclable ?
+*On ne peut pas* ? Il y a une loi qui interdit de vendre plus de deux pâtisseries sans l'horrible-boîte-en-carton-glacé-et-bientôt-taché-de-sucre-donc-pas-recyclable ?
 Je ne crois pas. J'espère pas ! Je préfère ne pas savoir, en fait.
 
 ## Fin :cry:
@@ -32,7 +36,7 @@ Je ne crois pas. J'espère pas ! Je préfère ne pas savoir, en fait.
 Sur ce coût là, j'ai récupéré la boite en carton… Pas le choix, puis *qu'on ne peut pas* ? Ou pas le choix, parce que tout le monde est paresseux ?
 Non, j'ai pas dis mon dernier mot… il suffit de :
 
-- Chercher une autre boulangerie moins stricte ? Il y a en plein, je peux toutes les essayer et ne garder que celle qui me convient…[ref]Notez qu'il me faudra faire ça pour tous les commerces, ne plus prendre le plus prêt et le moins cher, mais le plus en correspondance avec [mes objectifs](objectifs-initiaux-tels-que-je-mes-les-pose-le-26-avril-2018.html).[/ref]
+- Chercher une autre boulangerie moins stricte ? Il y a en plein, je peux toutes les essayer et ne garder que celle qui me convient…[ref]Notez qu'il me faudra faire ça pour tous les commerces, de ne plus prendre que le plus près et le moins cher, mais le plus en correspondance avec [mes objectifs](objectifs-initiaux-tels-que-je-mes-les-pose-le-26-avril-2018.html).[/ref]
 - Insister plus fortement et expliquer la raison la prochaine fois ?[ref]J'avoue qu'un vendredi soir à 18h30, juste après une semaine de boulot et avant un train, je manquais de conviction pour m'exciter sur ça et expliquer ou insister fortement auprès du vendeur… Pas bien ![/ref]
 
 Une autre solution serait de :
