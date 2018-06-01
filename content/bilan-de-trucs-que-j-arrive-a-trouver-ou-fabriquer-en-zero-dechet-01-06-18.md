@@ -45,8 +45,8 @@ Je sépare juste entre l'alimentation et le reste.
 
 ### Se trouvent facilement
 
-- Produit vaisselle en vrac, avec son contenant à remplir
-- Du savon de Marseille en vrac, sans emballage… J'ai triché en achetant un gros stock à Marseille (à [la savonnerie La Licorne](http://www.savon-de-marseille-licorne.com/))
+- Produit vaisselle en vrac, avec son contenant à remplir,
+- Du savon de Marseille en vrac, sans emballage… J'ai triché en achetant un gros stock à Marseille (à [la savonnerie La Licorne](http://www.savon-de-marseille-licorne.com/)).
 
 ---
 
