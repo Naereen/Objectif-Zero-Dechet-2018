@@ -25,7 +25,7 @@ Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer
 - [Pelican](http://getpelican.com/) pour la génération du site :hammer:,
 - [Thème](themes/alchemy) : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/) :sparkles: (version un peu modifiée, traduite en français :fr:), par [@nairobilug](https://GitHub.com/nairobilug/),
 - [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article), [`simple_footnotes`](https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes), [`section_number`](https://github.com/getpelican/pelican-plugins/tree/master/section_number),
-- Mes propres photos :camera: pour chaque recettes,
+- Mes propres photos :camera: pour chaque pages qui en contient,
 - Et... de l'amour !
 
 ----
