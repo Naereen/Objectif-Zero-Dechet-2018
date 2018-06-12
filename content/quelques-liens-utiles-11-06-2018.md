@@ -41,7 +41,7 @@ Mais aussi…
 ## Consignes
 
 - Le [réseau consigne](http://www.reseauconsigne.com/) donne plein d'informations utiles ! [Cette page](http://www.reseauconsigne.com/la-consigne/) devrait suffire à elle seule à convaincre n'importe qui de l'utilité des consignes !
-- La chaîne [Jean Bouteille](http://www.jeanbouteille.fr/) est présente dans de nombreuses villes en France. Malgré leur absence à Rennes, je les adore rien que pour leur nom qui me fait bien rire :laughing: !
+- La chaîne [Jean Bouteille](http://www.jeanbouteille.fr/) est présente dans de nombreuses villes en France. Malgré leur absence à Rennes, je les adore rien que pour leur nom qui me fait bien rire !
 
 ---
 
