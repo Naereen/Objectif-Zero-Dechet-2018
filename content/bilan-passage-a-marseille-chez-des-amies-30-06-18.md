@@ -9,7 +9,7 @@ Trois jours de passage à Marseille, au bilan "zéro déchet" plutôt positif !
 
 ## Alimentation
 
-- :+1: On a utilisé de la menthe et du basilique qui pousse dans le jardin, local et zéro déchet !
+- :+1: On a utilisé de la menthe et du basilic qui pousse dans le jardin, local et zéro déchet !
 - :+1: Bonne initiative d'utiliser un compost local, mais dommage de l'arrêter en été à cause de la chaleur !
 - :+1: Recyclage des morceaux de salades abîmés en nourriture aux tortues :turtle: !
 - :+1: Achats de pains, légumes et fruits locaux et sans emballage !
