@@ -19,7 +19,7 @@ Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plut�
 
 - :+1: et :-1: pour les "souvenirs" gastronomiques que j'ai acheté. J'adore les tartes du Queyras[ref][Des genres de tartes](http://kaamelott-soundboard.2ec0b4.fr/#son/difference_concrete_avec_des_briques) sablée à la confiture de fruits, qui elles aussi sont délicieuses[/ref], et j'en ai acheté quelques unes. Donc :+1: pour l'achat bio et local, mais :-1: pour l'emballage carton et plastique !
 
-- :+1: Difficile à évaluer mais je dirai :+1: pour un déjeuner dans [un restaurant dans le Queyras]() qui utilisait beaucoup de produits locaux ou bio. Un délicieux repas à un prix abordable, dans un cadre sublime. Le tout avec des spécialités locales et un service irréprochable. Que demander de plus ?
+- :+1: Difficile à évaluer mais je dirai :+1: pour un déjeuner dans [un restaurant dans le Queyras](https://www.lejamberoute.blogspot.fr/) qui utilisait beaucoup de produits locaux ou bio. Un délicieux repas à un prix abordable, dans un cadre sublime. Le tout avec des spécialités locales et un service irréprochable. Que demander de plus ?
 
 ---
 
@@ -35,7 +35,7 @@ Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plut�
 - :+1: Tout à pied au centre ville de Briançon et de Gap !
 - :-1: Quelques sorties en voiture avec mes parents…
 - :+1: Pas de covoiturage mais uniquement du train cette fois, même pour l'interminable trajet Gap > Marseille qui est presque deux fois plus lent en train !
-- :+1: Toujours aussi content de voir mes deux parents n'utiliser que très peu leurs véhicules motorisés, et les voir aller en ville à pieds et au travail à pieds ou en vélo ! Go Mom :walking_woman: ! Go Dad :bicyclist: !
+- :+1: Toujours aussi content de voir mes deux parents n'utiliser que très peu leurs véhicules motorisés, et les voir aller en ville à pieds et au travail à pieds ou en vélo ! Go Mom :walking: ! Go Dad :bicyclist: !
 
 ---
 
@@ -45,7 +45,7 @@ Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plut�
 - :+1: Pareil pour le vélo, j'ai eu le temps de faire 3 sorties vélo ou VTT en 4 jours :bicyclist: !
 
 > [![bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg){width=75%}]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg)
-> :heart: :mountain_snow: J'aime cette région !
+> :heart: :mountain: J'aime cette région !
 
 ---
 
