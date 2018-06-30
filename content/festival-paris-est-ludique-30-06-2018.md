@@ -3,7 +3,9 @@ Category: journal
 Tags: journal, reussite, voyage, vacances
 Summary: Deux jours de festival de jeux en plein air à Paris, au bilan "zéro déchet" très positif !
 
-Deux jours de festival de jeux en plein air à Paris, au bilan "zéro déchet" très positif !
+Fin juin 2018, j'étais à Paris durant deux jours pour le [festival de jeux en plein air](https://sites.google.com/a/parisestludique.fr/paris-est-ludique-2018/) **Paris est Ludique**.
+
+En plus d'un festival très agréable et divertissant, j'ai apprécié ces deux jours au bilan "zéro déchet" très positif !
 
 ---
 
@@ -22,14 +24,14 @@ Deux jours de festival de jeux en plein air à Paris, au bilan "zéro déchet" t
 ## Jeu et festival
 
 - :+1: Globalement très bon bilan recyclage sur tout le festival ! Nombreuses poubelles de tris sélectif, une buvette qui ne donnait que des gobelets à rendre et peu de vaisselle jetable etc.
-- :+1: Pour les jeux, dont la plupart ne nécessitent pas de produire des déchets à chaque partie. On a testé un jeu de dessin style Pictionary, et c'était le seul à utiliser du matériel à usage unique.
-
-> [![festival-paris-est-ludique-30-06-2018-1.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg)
-> :sparkles: Mention spéciale pour ce jeu avec des lapins !
-
-> [![festival-paris-est-ludique-30-06-2018-2.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg)
-> :sparkles: Mention spéciale pour ce jeu avec des lapins !
+- :+1: Pour les jeux, dont la plupart ne nécessitent pas de produire des déchets à chaque partie. On a testé un jeu de dessin style [Pictionary](https://fr.wikipedia.org/wiki/Pictionary), et c'était le seul à utiliser du matériel à usage unique.
 
 ---
 
-## Notes
+## Photos
+
+> [![festival-paris-est-ludique-30-06-2018-1.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg)
+> :sparkles: Un prototype, nommé "Instinct" très bien conçu, avec des pions en bois et en cartons, et aucun en plastique !
+
+> [![festival-paris-est-ludique-30-06-2018-2.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg)
+> :sparkles: Mention spéciale pour ce [jeu avec des lapins](http://www.iellogames.com/Bunny_Kingdom.html) !
