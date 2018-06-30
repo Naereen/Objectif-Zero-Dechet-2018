@@ -30,7 +30,7 @@ Trois jours de passage à Marseille, au bilan "zéro déchet" plutôt positif !
 - :+1: Réussite pour les billets de train, cette fois encore j'ai pu éviter de les imprimer (en montrant les codes QR via l'[application TrainLine](https://www.trainline.fr/)),
 - :+1: Tout à pied au centre ville de Marseille !
 - :-1: Juste un trajet en métro en arrivant, il faisait tellement chaud…
-- :+1: Pas de trajet inutile, pas de voitures :sunglasses: !
+- :+1: Pas de trajet inutile, pas de voiture :sunglasses: !
 
 ---
 
