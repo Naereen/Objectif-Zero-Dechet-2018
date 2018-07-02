@@ -18,7 +18,7 @@ Je présentais [cette démonstration](https://bitbucket.org/scee_ietr/malin-mult
 Un petit aperçu de notre table :
 
 > [![conference-ICT-a-Saint-Malo-02-07-18-3.jpg]({filename}images/conference-ICT-a-Saint-Malo-02-07-18-3.jpg){width=75%}]({filename}conference-ICT-a-Saint-Malo-02-07-18-3)
-> Au milieu on voit trois boîtiers blancs avec des antennes. De la gauche vers la droite, on a en premier un émetteur pur qui génère un "bruit" de fond sur 4 canaux radio (avec plus d'interférence sur les premiers canaux), au milieu on a un objet communicant (émetteur et récepteur) qui communique de petits messages, chaque seconde, en qui peut dynamiquement choisir son canal radio. Enfin, à droite on a une autre carte USRP qui représente une station de base (*i.e.*, une grosse antenne sur un bâtiment) qui écoute tout le traffic dans ces 4 canaux, et répond par un acquittement à l'objet dès qu'un message est reçu sans perturbation. Plus de détails [en ligne](https://bitbucket.org/scee_ietr/malin-multi-arm-bandit-learning-for-iot-networks-with-grc).
+> Au milieu on voit trois boîtiers blancs avec des antennes. De la gauche vers la droite, on a en premier un émetteur pur qui génère un "bruit" de fond sur 4 canaux radio (avec plus d'interférence sur les premiers canaux), au milieu on a un objet communicant (émetteur et récepteur) qui communique de petits messages, chaque seconde, en qui peut dynamiquement choisir son canal radio. Enfin, à droite on a une autre carte USRP qui représente une station de base (*i.e.*, une grosse antenne sur un bâtiment) qui écoute tout le trafic dans ces 4 canaux, et répond par un acquittement à l'objet dès qu'un message est reçu sans perturbation. Plus de détails [en ligne](https://bitbucket.org/scee_ietr/malin-multi-arm-bandit-learning-for-iot-networks-with-grc).
 
 Et un bonus :
 
@@ -45,16 +45,16 @@ A la conférence :
 Aux restaurants :
 
 - :+1: Pour le dîner de gala, c'était presque parfait[ref]À la fois pour le cocktail, le dîner etc.[/ref] niveau déchet, à part le sucre emballé individuellement pour le café…
-- :-1: Dans [un restaurant plutôt chic](http://latabledhenri.com/), j'étais déçu de voir des choses inutiles comme des tout petits morceaux de beurre suremballé en plastique[ref]Et en plus, le beurre "de baratte" qu'ils nous ont servi n'était vraiment pas meilleur qu'un beurre "normal"… La honte ![/ref].
+- :-1: Dans [un restaurant plutôt chic](http://latabledhenri.com/), j'étais déçu de voir des choses inutiles comme des tous petits morceaux de beurre suremballé en plastique[ref]Et en plus, le beurre "de baratte" qu'ils nous ont servi n'était vraiment pas meilleur qu'un beurre "normal"… La honte ![/ref].
 
 ---
 
-## Chez notre hôte ([AirBNB](https://www.airbnb.fr/rooms/8061165))
+## Chez notre hôte ([cet AirBNB](https://www.airbnb.fr/rooms/8061165))
 
-- :+1: Pour nos repas du matin, j'ai pu acheter du pain et de quoi petit-déjeuner dans une boulangerie, et sans emballage avec mes sachets.
+- :+1: Pour nos repas du matin, j'ai pu acheter du pain et de quoi petit-déjeuner dans une boulangerie, et sans emballage grâce à mes sachets.
 
 - :-1: Échecs successifs pour le reste des achats, sur place et avec les contraintes horaires qu'on avait je n'ai pas pu faire autrement que d'acheter quelques produits de nécessité à Carrefour. Donc du café, de la confiture et des jus de fruits, tout ça pas en "zéro déchet".
-    > Dommage parce que ce sont des produits que j'ai déjà remplacé depuis un moment, quand je suis chez moi avec mes habitudes et un peu de temps.
+  > Dommage parce que ce sont des produits que j'ai déjà remplacé depuis un moment, quand je suis chez moi avec mes habitudes et un peu de temps.
 
 ---
 
