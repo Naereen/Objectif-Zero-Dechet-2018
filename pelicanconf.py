@@ -55,7 +55,9 @@ DEFAULT_PAGINATION = 10
 # DEFAULT_DATE = "fs"
 
 # http://docs.getpelican.com/en/stable/settings.html?highlight=date#metadata
-FILENAME_METADATA = r'.*-(?P<date>\d{2}-\d{2}-\d{4})'
+FILENAME_METADATA = r".*-(?P<date>\d{4}-\d{2}-\d{2})"
+
+DEFAULT_DATE_FORMAT = "%A %d %B %Y"
 
 DEFAULT_CATEGORY = "journal"
 
