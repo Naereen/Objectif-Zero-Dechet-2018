@@ -1,12 +1,12 @@
 Title: Bilan d'un court voyage aux Pays-Bas ! (21-05-2018)
 Category: journal
-Tags: journal, echec, reussite, voyage
+Tags: journal, echec, reussite, voyage, conference
 Summary: Quatre jours de voyage aux Pays-Bas, à Rotterdam et Amsterdam, petit bilan plutôt positif !
 
 En mai 2018, je suis allé deux jours à Rotterdam[ref]Pour assister à ce [colloque pour ma thèse](www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/).[/ref], et ensuite deux jours à Amsterdam.
 
 > [![bilan-dun-voyage-aux-Pays-Bas-01-06-18.jpg]({filename}images/bilan-dun-voyage-aux-Pays-Bas-01-06-18.jpg){width=75%}]({filename}bilan-dun-voyage-aux-Pays-Bas-01-06-18)
-> <center>:sparkles: :rabbit: Bonus : ils ont des lapins en liberté dans certains parcs ! Trop mignons !</center>
+> <center>:rabbit: Bonus : ils ont des lapins en liberté dans certains parcs ! Trop mignons !</center>
 
 ---
 

@@ -51,8 +51,11 @@ ICONS = SOCIAL
 # Articles per page
 DEFAULT_PAGINATION = 10
 
-# Dates of articles from the file modification
-DEFAULT_DATE = "fs"
+# # Dates of articles from the file modification
+# DEFAULT_DATE = "fs"
+
+# http://docs.getpelican.com/en/stable/settings.html?highlight=date#metadata
+FILENAME_METADATA = r'.*-(?P<date>\d{2}-\d{2}-\d{4})'
 
 DEFAULT_CATEGORY = "journal"
 

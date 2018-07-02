@@ -1,4 +1,4 @@
-Title: Quelques liens utiles (11/06/2018)
+Title: Quelques liens utiles (11-06-2018)
 Category: journal
 Tags: journal, lien
 Summary: Quelques liens vers des sites Internet utiles, pour des initiatives Zéro Déchet à Rennes et en France.
