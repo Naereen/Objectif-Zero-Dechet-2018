@@ -6,7 +6,7 @@ Summary: Quatre jours de voyage aux Pays-Bas, à Rotterdam et Amsterdam, petit b
 En mai 2018, je suis allé deux jours à Rotterdam[ref]Pour assister à ce [colloque pour ma thèse](www.erim.eur.nl/e-code-erasmus-centre-for-optimization-of-digital-experiments/workshop-on-multi-armed-bandits-and-learning-algorithms/).[/ref], et ensuite deux jours à Amsterdam.
 
 > [![bilan-dun-voyage-aux-Pays-Bas-01-06-18.jpg]({filename}images/bilan-dun-voyage-aux-Pays-Bas-01-06-18.jpg){width=75%}]({filename}bilan-dun-voyage-aux-Pays-Bas-01-06-18)
-> <center>:rabbit: Bonus : ils ont des lapins en liberté dans certains parcs ! Trop mignons !</center>
+> <center>🐇 Bonus : ils ont des lapins en liberté dans certains parcs ! Trop mignons 🐰 !</center>
 
 ---
 

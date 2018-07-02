@@ -27,7 +27,7 @@ Ce post est là dresse un rapide bilan positif de (petites) réussites lors de m
 
 ### Transports
 
-- :+1: [Transpole](https://www.transpole.fr/), la société en charge des trams et métro à Lille Métropole, propose des titres de transports rechargeables ! La [RATP](https://www.ratp.fr/) à Paris devraient faire pareil !
+- :+1: [Transpole](https://www.transpole.fr/), la société en charge des trams et métro à Lille Métropole, propose des titres de transports rechargeables, comme à Marseille ! La [RATP](https://www.ratp.fr/) à Paris devrait faire pareil !
 - :cry: Train et avion : pas de billets papiers pour les différents trajets… C'est un détail, mais ça compte…
 - :warning: Avion : pas de petits biscuits apéritif ni de café avec-son-gobelet-et-sucre-sur-emballés :wink: !
 
