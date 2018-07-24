@@ -36,7 +36,7 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt mitig�
 - :-1: ça m'a forcé à faire un peu trop de lessives…
 - :-1: certain-e-s hôtes m'ont apporté des petits cadeaux, pas forcément zéro-déchet, mais jamais trop polluant non plus (*e.g.*, des moutardes de Dijon, dans des pots en verre, ou du chocolat avec son emballage en alu…).
 
-> Bonus pour le jour où j'ai hébergé une italienne et (par hasard) je nous avais cuisiné [une de mes pizza](https://perso.crans.org/besson/cuisine/pizza-maison-base-et-idees.html) et [mon tiramisu](https://perso.crans.org/besson/cuisine/tiramisu-au-cafe.html), deux spécialités italiennes. Elle a bien aimé les deux :medal_sports: !
+> Bonus pour le jour où j'ai hébergé une italienne et (par hasard) je nous avais cuisiné [une de mes pizza](https://perso.crans.org/besson/cuisine/pizza-maison-base-et-idees.html) et [mon tiramisu](https://perso.crans.org/besson/cuisine/tiramisu-au-cafe.html), deux spécialités italiennes. Elle a bien aimé les deux 🏅 !
 
 ---
 
