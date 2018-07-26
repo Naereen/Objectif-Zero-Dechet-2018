@@ -31,7 +31,3 @@ Trois jours de passage à Marseille, au bilan "zéro déchet" plutôt positif !
 - :+1: Tout à pied au centre ville de Marseille !
 - :-1: Juste un trajet en métro en arrivant, il faisait tellement chaud…
 - :+1: Pas de trajet inutile, pas de voiture :sunglasses: !
-
----
-
-## Notes

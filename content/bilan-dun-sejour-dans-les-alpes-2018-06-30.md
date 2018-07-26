@@ -1,6 +1,6 @@
 Title: Bilan d'un séjour dans les Alpes ! (30-06-2018)
 Category: journal
-Tags: journal, reussite, voyage, vacances
+Tags: journal, reussite, voyage, vacances, famille
 Summary: Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plutôt mitigé.
 
 Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plutôt mitigé.

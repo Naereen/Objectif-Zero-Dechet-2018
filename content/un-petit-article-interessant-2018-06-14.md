@@ -1,9 +1,9 @@
-Title: Le Moyen Âge était-il « zéro déchets » ?
+Title: Le Moyen Âge était-il « zéro déchet » ?
 Category: journal
-Tags: journal, lien
-Summary: Un tout petit article pour partager un post de blog très intéressant, "Le Moyen Âge était-il « zéro déchets » ?" sur le blog Actuel Moyen-Âge !
+Tags: journal, lien, famille
+Summary: Un tout petit article pour partager un post de blog très intéressant, "Le Moyen Âge était-il « zéro déchet » ?" sur le blog Actuel Moyen-Âge !
 
-Un tout petit article pour partager un post de blog très intéressant, "Le Moyen Âge était-il « zéro déchets » ?" sur le [blog Actuel Moyen-Âge](https://actuelmoyenage.wordpress.com/) !
+Un tout petit article pour partager un post de blog très intéressant, "Le Moyen Âge était-il « zéro déchet » ?" sur le [blog Actuel Moyen-Âge](https://actuelmoyenage.wordpress.com/) !
 
 ## Lien
 
