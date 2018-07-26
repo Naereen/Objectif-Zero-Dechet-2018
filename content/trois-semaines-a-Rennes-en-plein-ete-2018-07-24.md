@@ -21,7 +21,7 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt positi
 
 ## Sorties
 
-- :+1: Globalement positif ! Des éco-cups dans les deux festivals où je me suis retrouvé par hasard ([à Rennes](http://www.lestombeesdelanuit.com/fr/) et [à Dinan](https://www.fete-remparts-dinan.com/)), et pas grand chose à critiquer ou améliorer sur tout ce que j'ai fait ce mois ci !
+- :+1: Globalement positif ! Des éco-cups dans les deux festivals où je me suis retrouvé *par hasard* ([à Rennes](http://www.lestombeesdelanuit.com/fr/) et [à Dinan](https://www.fete-remparts-dinan.com/)), et pas grand chose à critiquer ou améliorer sur tout ce que j'ai fait ce mois ci !
 - :-1: Quelques fois dans des restaurants où tu vois que les gérants n'en ont rien à faire de polluer moins. Dans un restaurant indien, j'ai demandé [un lassi](https://fr.wikipedia.org/wiki/Lassi), et insisté pour ne pas avoir de paille, elle y était quand même…
 
 ---
@@ -38,16 +38,16 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt positi
 
 > Bonus pour le jour où j'ai hébergé une italienne et (par hasard) je nous avais cuisiné [une de mes pizza](https://perso.crans.org/besson/cuisine/pizza-maison-base-et-idees.html) et [mon tiramisu](https://perso.crans.org/besson/cuisine/tiramisu-au-cafe.html), deux spécialités italiennes. Elle a bien aimé les deux 🏅 !
 >
-> 🇬🇧 « we had the most varied and interesting conversations in front of a homemade Italian dinner that got my Italian approval (he's a great cook) »
+> 🇬🇧 « we had the most varied and interesting conversations in front of a homemade Italian dinner that got my Italian approval (he's a great cook) ».
 
 ---
 
 ## Sports
 > Rarement fait autant que ce mois de juillet…
 
-- :+1: Course à pied, assez régulièrement ce mois ci, content de l'absence d'impact pollution. Je sors, je cours 20 à 45 minutes, une douche en rentrant et voilà.
-- :+1: Foot en salle ("futsal") toujours chaque semaine au boulot, pareil on ne consomme rien c'est cool !
-- :+1: Toujours content de la [piscine des Gayeulles](https://www.guide-piscine.fr/ille-et-vilaine/piscine-gayeulles-a-rennes-133_P), puisque je peux y aller sans consommer de tickets ou d'autre.
+- :+1: Course à pied, assez régulièrement ce mois ci, content de l'absence d'impact pollution. Je sors, je cours 20 à 45 minutes, une douche en rentrant et voilà. Simple et efficace !
+- :+1: Foot en salle ("futsal") toujours chaque semaine au boulot, pareil on ne consomme rien c'est cool ! (deux ballons en un an, pour environ 36 séances à 8-12 joueurs, c'est rien !).
+- :+1: Toujours content de la [piscine des Gayeulles](https://www.guide-piscine.fr/ille-et-vilaine/piscine-gayeulles-a-rennes-133_P), puisque je peux y aller sans consommer de ticket ou d'autre produit polluant.
 
 - :+1: Kayak et *rafting*, sur la Vilaine ([à cette base nautique](https://www.ville-cesson-sevigne.fr/riviere-sportive.html) à Cesson-Sévigné). Bilan positif, aucun objet à usage unique et peu de pollution. Je dis "peu" et non "pas", parce que la partie rafting était sur un petit circuit qui utilise une pompe électrique pour générer le courant et les remous d'eau…
 - :+1: Vélo, notamment une grande sortie de [Rennes à Saint-Malo](https://www.francevelotourisme.com/base-1/destinations/bretagne/troncons/saint-malo-arzal) le long du canal d'Ille-et-Rance. 137 kms sur la journée, mais aucune pollution ! :-1: à part le train pour rentrer le soir…
@@ -68,7 +68,3 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt positi
 
 - :-1: Des pauses "glaces" avec des cônes emballés individuellement, c'est pas bien !
 - :-1: J'ai organisé un barbecue pour tous les chercheur-euse-s et membres du personnel du [campus de CentraleSupélec Rennes](http://www.rennes.centralesupelec.fr/fr/node/77), et avec 40 personnes nous n'avons pas réussi à ne pas utiliser de vaisselles en plastique :crying_cat_face: ! Mais je note les efforts quant à l'achat de la nourriture, pas d'emballage sur les légumes et fruits, emballage minimum sur le pain, la viande etc, et sur les boissons. Donc pas parfait, mais difficilement améliorable vu le budget et les conditions !
-
----
-
-## Notes
