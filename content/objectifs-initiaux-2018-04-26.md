@@ -26,7 +26,7 @@ Ensuite, je liste des améliorations possibles concernant mon travail, puis ma v
 # Vie de tous les jours
 ## Alimentation
 - **Acheter sans emballage autant que possible** (100% pour les fruits et légumes, le pain, etc),
--** Acheter en vrac autant que possible**,
+- **Acheter en vrac autant que possible**,
 - **Minimiser les emballages plastiques**, favoriser le carton, le verre, l'alu,
 - N'acheter **que des produits locaux et de saison**, en tout cas autant que possible.
 
