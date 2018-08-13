@@ -54,14 +54,14 @@ Deux belles expériences en logeant chez des CouchSurfeurs (à quatre amis et en
 Petit bilan des différentes activités que nous avons fait durant notre semaine touristique :
 
 - :+1: Visite d'une distillerie de whisky, rien à redire quant à la gestion des déchets et le recyclage, c'est impressionnant.
-  + Les restes de la fabrication du malt sont utilisées pour fabriquer un aliment pour le bétail, les tonneaux usagés sont restaurés ou vendus (pour en faire du bois de chauffage à l'odeur forte).
-  + Pour les dégustations, aucun produit jetable mais de beaux verres en vert, et des serviettes en tissu !
+    + Les restes de la fabrication du malt sont utilisées pour fabriquer un aliment pour le bétail, les tonneaux usagés sont restaurés ou vendus (pour en faire du bois de chauffage à l'odeur forte).
+    + Pour les dégustations, aucun produit jetable mais de beaux verres en vert, et des serviettes en tissu !
 
 - :+1: Visite d'un des sites d'une entreprise fabriquant et réparant des tonneaux (*Speyside Cooperage*).
-  + Ce site ne faisait que de la réparation, et rien que ça c'est déjà génial : une usine employant 50 personnes qui ne fait que réparer des objets au lieu d'en produire des nouveaux !
-  + Bon, en fait, c'est nécessaire pour le whisky : les whisky Écossais doivent être vieillis en fus de chêne, dans des tonneaux qui ont déjà servi pour faire vieillir un bourbon aux États Unis d'Amérique du Nord… Mais n'empêche, c'était impressionnant !
-  + Là aussi, le moindre rebut inutilisable pour les tonneaux et découper et vendu comme bois de chauffage !
-  + :-1: Mauvais point pour le petit verre jetable en plastique utilisé pour la dégustation à la fin (mais :+1: pour l'excellente liqueur de whisky au miel !).
+    + Ce site ne faisait que de la réparation, et rien que ça c'est déjà génial : une usine employant 50 personnes qui ne fait que réparer des objets au lieu d'en produire des nouveaux !
+    + Bon, en fait, c'est nécessaire pour le whisky : les whisky Écossais doivent être vieillis en fus de chêne, dans des tonneaux qui ont déjà servi pour faire vieillir un bourbon aux États Unis d'Amérique du Nord… Mais n'empêche, c'était impressionnant !
+    + Là aussi, le moindre rebut inutilisable pour les tonneaux et découper et vendu comme bois de chauffage !
+    + :-1: Mauvais point pour le petit verre jetable en plastique utilisé pour la dégustation à la fin (mais :+1: pour l'excellente liqueur de whisky au miel !).
 
 - :-1: Visite d'un château (celui de *Stirling*), aucun déchet à partir les inutiles tickets en papier, et les plans du château…
 
