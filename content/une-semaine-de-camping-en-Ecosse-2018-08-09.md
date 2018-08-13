@@ -14,7 +14,8 @@ Une semaine de camping en Écosse, au bilan "zéro déchet" plutôt honteux !
 - :-1: Tous nos achats en super-marché, avec moult emballages plastiques, même en essayant d'acheter intelligemment.
     + 😭 la plupart de nos repas étaient des picnics, avec du pain, fromage, fruits, légumes etc.
     + Presque chaque élément était trop emballé !! C'est vraiment dommage.
-    + Mais en étant à quatre, sur la route, dans un pays qui n'a presqu'aucune épicerie en vrac ou magasin comme BioCoop, je ne crois pas que nous aurions pu faire mieux !
+    + Mais en étant à quatre, sur la route, dans un pays qui n'a presque aucune épicerie en vrac ou magasin comme BioCoop, je ne crois pas que nous aurions pu faire mieux !
+
 
 - :+1: Légère satisfaction à acheter des légumes sans emballage, mais dans les Tesco, Morrisons et autre grand supermarché, certains légumes ne sont disponibles que sur-emballés de plastique (des fois les tomates, les concombres etc).
 
@@ -43,7 +44,8 @@ Deux belles expériences en logeant chez des CouchSurfeurs (à quatre amis et en
 - :+1: Course à pied, une fois. Rien à dire, c'est le sport idéal qui ne demande aucun consommable à usage unique, aucun véhicule motorisé et aucun équipement coûteux (j'ai beau aimer le vélo, produire un vélo, ça pollue…).
 - :+1: Trois fois de la randonnée.
 - :+1: Nous avons trouvé un vieux cerf-volant sur la plage le premier jour, que nous avons nettoyé et réparé nous même, avant d'en profiter deux fois !
-    > Encore mieux que ne pas produire de déchets, récupérer les déchets et s'en servir :smile: !
+
+  > Encore mieux que ne pas produire de déchets, récupérer les déchets et s'en servir :smile: !
 
 ---
 
@@ -51,9 +53,15 @@ Deux belles expériences en logeant chez des CouchSurfeurs (à quatre amis et en
 
 Petit bilan des différentes activités que nous avons fait durant notre semaine touristique :
 
-- :+1: Visite d'une distillerie de whisky, rien à redire quant à la gestion des déchets et le recyclage, c'est impressionnant. Les restes de la fabrication du malt sont utilisées pour fabriquer un aliment pour le bétail, les tonneaux usagés sont restaurés ou vendus (pour en faire du bois de chauffage à l'odeur forte). Pour les dégustations, aucun produit jetable mais de beaux verres en vert, et des serviettes en tissu !
+- :+1: Visite d'une distillerie de whisky, rien à redire quant à la gestion des déchets et le recyclage, c'est impressionnant.
+  + Les restes de la fabrication du malt sont utilisées pour fabriquer un aliment pour le bétail, les tonneaux usagés sont restaurés ou vendus (pour en faire du bois de chauffage à l'odeur forte).
+  + Pour les dégustations, aucun produit jetable mais de beaux verres en vert, et des serviettes en tissu !
 
-- :+1: Visite d'un des sites d'une entreprise fabriquant et réparant des tonneaux (*Speyside Cooperage*). Ce site ne faisait que de la réparation, et rien que ça c'est déjà génial : une usine employant 50 personnes qui ne fait que réparer des objets au lieu d'en produire des nouveaux ! Bon, en fait, c'est nécessaire pour le whisky : les whisky Écossais doivent être vieillis en fus de chêne, dans des tonneaux qui ont déjà servi pour faire vieillir un bourbon aux États Unis d'Amérique du Nord… Mais n'empêche, c'était impressionnant ! Là aussi, le moindre rebut inutilisable pour les tonneaux et découper et vendu comme bois de chauffage ! :-1: Mauvais point pour le petit verre jetable en plastique utilisé pour la dégustation à la fin (mais :+1: pour l'excellente liqueur de whisky au miel !).
+- :+1: Visite d'un des sites d'une entreprise fabriquant et réparant des tonneaux (*Speyside Cooperage*).
+  + Ce site ne faisait que de la réparation, et rien que ça c'est déjà génial : une usine employant 50 personnes qui ne fait que réparer des objets au lieu d'en produire des nouveaux !
+  + Bon, en fait, c'est nécessaire pour le whisky : les whisky Écossais doivent être vieillis en fus de chêne, dans des tonneaux qui ont déjà servi pour faire vieillir un bourbon aux États Unis d'Amérique du Nord… Mais n'empêche, c'était impressionnant !
+  + Là aussi, le moindre rebut inutilisable pour les tonneaux et découper et vendu comme bois de chauffage !
+  + :-1: Mauvais point pour le petit verre jetable en plastique utilisé pour la dégustation à la fin (mais :+1: pour l'excellente liqueur de whisky au miel !).
 
 - :-1: Visite d'un château (celui de *Stirling*), aucun déchet à partir les inutiles tickets en papier, et les plans du château…
 
@@ -65,6 +73,6 @@ Petit bilan des différentes activités que nous avons fait durant notre semaine
 
 ## Transport
 
-- :-1: Avion, entre Paris et Édimbourg…
-- :-1: Train, entre Rennes et l'aéroport Charles de Gaulle…
+- :-1: Avion, entre Paris et Édimbourg… 😭
+- :-1: Train, entre Rennes et l'aéroport Charles de Gaulle… 😭
 - :-1: Voiture sur place, j'ai honte. C'était très confortable mais je ne ferai plus de vacances en voiture. Cela dit, l'impact n'est pas si grand, nous étions toujours quatre dans la voiture, et nous avons conduit moins de 800 kilomètres en 8 jours. Un seul plein d'essence d'une voiture plutôt économique.
