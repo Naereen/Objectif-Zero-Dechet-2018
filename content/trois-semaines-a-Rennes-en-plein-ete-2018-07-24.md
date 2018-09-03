@@ -32,7 +32,7 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt positi
 
 - :+1: tout le monde s'est montré respectueux du tri mis en place chez moi (compost, verre, cartons, etc), aucune mauvaise surprise sur cet aspect là !
 - :+1: aucun-e hôte ne fumait, cool.
-- :+1: on a souvent manger à la maison, avec tous les avantages que ça apporte (vaisselle lavée avec le minimum de produit, pas de couverts jetables, cuisine responsable, compost etc).
+- :+1: on a souvent mangé à la maison, avec tous les avantages que ça apporte (vaisselle lavée avec le minimum de produit, pas de couverts jetables, cuisine responsable, compost etc).
 - :-1: ça m'a forcé à faire un peu trop de lessives…
 - :-1: certain-e-s hôtes m'ont apporté des petits cadeaux, pas forcément zéro-déchet, mais jamais trop polluant non plus (*e.g.*, des moutardes de Dijon, dans des pots en verre, ou du chocolat avec son emballage en alu…).
 
