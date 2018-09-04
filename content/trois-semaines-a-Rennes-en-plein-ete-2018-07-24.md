@@ -14,7 +14,7 @@ Trois semaines à Rennes en plein été, au bilan "zéro déchet" plutôt positi
 
 - :+1: Je note que j'ai [enfin trouvé](https://github.com/Naereen/Objectif-Zero-Dechet-2018/issues/9) du chocolat noir en poudre en vrac.
 
-- :-1: J'ai acheté des glaces en boite en plastique d'1L, et n'ai aucun usage possible des boites en plastique. Dommage de jeter ça !
+- :-1: J'ai acheté des glaces en boite en plastique d'un litre, et n'ai aucun usage possible des boites en plastique. Dommage de jeter ça !
 - :-1: Quelques achats en super-marché mais très peu (surtout des choses requises pour un voyage, comme un adaptateur allume-cigare / USB, une veste étanche).
 
 ---

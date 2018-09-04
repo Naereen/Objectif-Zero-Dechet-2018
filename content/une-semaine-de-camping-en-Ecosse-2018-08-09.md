@@ -63,7 +63,7 @@ Petit bilan des différentes activités que nous avons fait durant notre semaine
     + Là aussi, le moindre rebut inutilisable pour les tonneaux et découper et vendu comme bois de chauffage !
     + :-1: Mauvais point pour le petit verre jetable en plastique utilisé pour la dégustation à la fin (mais :+1: pour l'excellente liqueur de whisky au miel !).
 
-- :-1: Visite d'un château (celui de *Stirling*), aucun déchet à partir les inutiles tickets en papier, et les plans du château…
+- :-1: Visite d'un château (celui de *Stirling*), aucun déchet à part les inutiles tickets en papier, et les plans du château…
 
 - :+1: À Édimbourg, visite du musée national (très agréable et instructif), qui est entièrement gratuit et donc ne produit pas de déchets inutiles (pas de ticket).
 
