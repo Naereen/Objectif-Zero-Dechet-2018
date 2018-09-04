@@ -12,10 +12,11 @@ Je sépare juste entre l'alimentation et le reste.
 
 ### N'existent pas ?
 
-- **Sauces tomates** en vrac ? Je crois que ça n'existe pas. Du coup j'en achète peu, et j'utilise les pots en verre (pour les confitures, le café, les épices etc).
+- **Sauces tomates** en vrac ? Je crois que ça n'existe pas. Du coup j'en achète peu, et quand j'en achète je parviens à utiliser les pots en verre (pour les confitures, le café, les épices etc).
 - Des **pruneaux d'Agen** en vrac, pas trouvé.
 - **Sucre à confiture** en vrac, pas trouvé ! Peut-être que je peux acheter de la pectine séparément, et acheter le sucre (normal) en vrac…
 - **Mozzarella** et **feta** en vrac, ça n'existe pas sans emballage plastique je crois. Dommage j'adore ça…
+    > Note : j'ai trouvé de la feta en vrac chez un des fromagers du marché centrale (La Criée), mais pas de mozzarella.
 
 ---
 
@@ -31,6 +32,8 @@ Pas encore passé le cap, j'épuise mes stocks d'abord !
 Produit frais :
 
 - Les "**tartinades**", comme le **houmous**, le **tzatziki**, les **rillettes** (porc, thon, saumon), le **caviar d'aubergine** ou encore la **tapenade**, tout ça existe au marché ! En vrac, en amenant son pot, c'est possible. Je n'ai pas encore essayé…
+
+> [Entre fin août et début septembre](trois-semaines-a-rennes-fin-aout-03-09-2018.html) (2018) j'ai enfin réussi à passer le cap pour tout ça !
 
 ---
 
@@ -62,6 +65,8 @@ Produit frais :
 
 - **Déodorant** sans déchet ? Déjà que le déo "spray" n'est pas très efficace, les autres approches "naturelles" que j'avais essayé sont carrément ridicules[ref]Par exemple, la [pierre d'Alun](https://fr.wikipedia.org/wiki/Alun), utile contre une coupure quand on se rase, mais inutile comme déodorant.[/ref],
 - Préservatifs, **cotons-tiges**, **sacs poubelles**, **mouchoirs**, **timbres** : produits à usage unique par essence, je ne sais pas comment les remplacer…
+
+> Note : en août 2018, j'ai enfin trouvé une alternative durable et zéro-déchet aux cotons-tiges, voir [cet autre article](enfin-une-solution-zero-dechet-pour-ne-plus-utiliser-de-cotons-tiges-02-09-2018.html).
 
 Produits de bureaux :
 

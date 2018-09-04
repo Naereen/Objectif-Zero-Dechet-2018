@@ -18,7 +18,7 @@ Je sépare juste entre l'alimentation et le reste.
 - **Œufs** : pareil dans une BioCoop, ou au marché, il suffit de venir avec sa boite et de demander,
 - **Muesli** : pareil dans une BioCoop ou un Carrefour !
 - **Fruits secs**, **chocolat de cuisine** (pépites), **biscuits** : se trouve dans une BioCoop. Il faut penser à venir avec ses sachets (en papier pour l'instant mais je vais passer aux sachets en tissu) ou ses boites hermétiques.
-- **Cafés et thés** : pareil, dans une boutique spécialisée par exemple. Ce n'est pas plus cher que du café milieu de gamme de supermarché, et on peut venir avec ses propres bocaux ! À Rennes, j'ai bien [Au Fin Café](http://www.aufincafe.com/entry-50-rennes.html), leurs cafés sont entre 5 et 9€ les 250g, c'est très honnête ! Et ils sont délicieux !
+- **Cafés et thés** : pareil, dans une boutique spécialisée par exemple. Ce n'est pas plus cher que du café milieu de gamme de supermarché, et on peut venir avec ses propres bocaux ! À Rennes, j'aime bien [Au Fin Café](http://www.aufincafe.com/entry-50-rennes.html), leurs cafés sont entre 5 et 9€ les 250g, c'est très honnête ! Et ils sont délicieux !
 
 ---
 
@@ -30,7 +30,7 @@ Je sépare juste entre l'alimentation et le reste.
 
 ### A préparer soi-même
 
-- **Desserts cuisinés** : pour les crèmes desserts, les compotes, le [riz au lait](https://perso.crans.org/besson/cuisine/riz-au-lait-a-la-vanille.html), [le halva aux carottes](https://perso.crans.org/besson/cuisine/halva-indien-aux-carottes-et-a-la-cannelle.html) ou encore [les gateaux](https://perso.crans.org/besson/cuisine/tag/gateau.html), c'est un tel plaisir et un tel délice de les faire soi-même :smile: :cake: !
+- **Desserts cuisinés** : pour les crèmes desserts, les compotes, le [riz au lait](https://perso.crans.org/besson/cuisine/riz-au-lait-a-la-vanille.html), [le halva aux carottes](https://perso.crans.org/besson/cuisine/halva-indien-aux-carottes-et-a-la-cannelle.html) ou encore [les gateaux](https://perso.crans.org/besson/cuisine/tag/gateau.html), c'est un tel plaisir et un tel délice de les faire soi-même :smile: :cake: ! Bien sûr, il faut avoir le temps, et des fois / souvent je préfère ne pas manger de dessert que de succomber à la tentation d'acheter un dessert ultra-transformé et industriel.
 - **Plats cuisinés** : pareil, inutile d'acheter des plats cuisines ou préparés[ref]y compris des "morceaux" de plats,[/ref], c'est plus agréable de tout faire soi-même !
 - **Confitures** : c'est bon, j'en fait quand nécessaire ou quand j'ai le temps ([regardez mes recettes](https://perso.crans.org/besson/cuisine/tag/confiture.html)), j'ai un gros stock et c'est super bon :smile: !
 
@@ -57,9 +57,9 @@ Je sépare juste entre l'alimentation et le reste.
 
 ---
 
-## Controversé
+## Controversé...
 
-- **Jeux vidéo**, **musiques**, **films** etc qui sont dématérialisés sur ordinateur et reçus par Internet. Oui, *je sais*, Internet consomme de l'électricité et des métaux (rares ou non), le stockage, les transformations et l'acheminement de toutes es informations coûtent très cher aussi. Mais voir un film téléchargé coûte moins de plastique (et d'autre pollution) que d'aller le voir au cinéma ou d'en acheter un DVD.
+- **Jeux vidéo**, **musiques**, **films** etc qui sont dématérialisés sur ordinateur et reçus par Internet. Oui, *je sais*, Internet consomme de l'électricité et des métaux (rares ou non), le stockage, les transformations et l'acheminement de toutes ces informations coûtent très cher aussi. Mais voir un film téléchargé coûte moins de plastique (et d'autre pollution) que d'aller le voir au cinéma ou d'en acheter un DVD.
 
 > Je reste très curieux de cette question, [passant beaucoup de temps sur mes ordinateurs](https://wakatime.com/@lbesson), et j'aimerai en savoir plus. Vous voulez partager votre point de vue ? [Envoyez-moi un courriel !](https://perso.crans.org/besson/contact/)
 
