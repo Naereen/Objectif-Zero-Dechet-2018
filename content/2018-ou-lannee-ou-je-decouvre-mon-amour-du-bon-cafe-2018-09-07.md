@@ -38,9 +38,7 @@ J'ai acheté, au même magasin, une "**presse française**" de la [marque Bodum]
 
 Plus exactement, j'ai acheté ce modèle : [Caffettiera d'un litre](https://www.bodum.com/fr/fr/1918-01-caffettiera) (à 25€ au jour du 7 septembre 2018).
 
-<iframe src="https://www.bodum.com/fr/fr/1918-01-caffettiera" frameborder="0" width="400" height="400">Aperçu de la page <a href="https://www.bodum.com/fr/fr/1918-01-caffettiera">www.bodum.com/fr/fr/1918-01-caffettiera</a></iframe>
-
-[![cafetiere-bodum-a-25-euros.jpg]({filename}images/cafetiere-bodum-a-25-euros.jpg){width=65%}]({filename}images/cafetiere-bodum-a-25-euros.jpg)
+[![cafetiere-bodum-a-25-euros.jpg]({filename}images/cafetiere-bodum-a-25-euros.jpg){width=65%}](https://www.bodum.com/fr/fr/1918-01-caffettiera)
 
 L'offre que proposait la boutique au fin café était d'offrir 250g de café arabica "de base" pour l'achat de la cafetière (environ 5€ offert pour 25€ d'achat !)
 
