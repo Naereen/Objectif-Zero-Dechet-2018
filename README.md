@@ -2,13 +2,13 @@
 ## *🇫🇷 📒 Petit blog en français qui raconte mes expériences et mes progrès pour être 100% zéro déchet !*
 
 Ce projet contient les sources pour [ce dossier](https://perso.crans.org/besson/zero-dechet/) sur [mon site web](https://perso.crans.org/besson/), qui contient un petit blog, écrit depuis avril 2018.
-Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer (presque) complètement ma consommation de déchets non recyclable, d'ici décembre 2018.
+Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer (presque) complètement ma consommation de déchets non recyclables, d'ici décembre 2018.
 
 [![screenshot.png](screenshot.png)](https://perso.crans.org/besson/zero-dechet/)
 
-- Des idées recettes, cuisine et cosmétique !
-- Des liens vers les sites web utiles et les boutiques pratiques à Rennes !
-- Des articles racontant certaines galères ou certaines réussites !
+- Des liens vers les sites web utiles, et les boutiques pratiques à Rennes !
+- Des articles racontant certaines galères mais surtout les initiatives et défis réussi-e-s !
+- Et aussi quelques idées recettes, que ce soit en cuisine et ou en cosmétique !
 
 ----
 
