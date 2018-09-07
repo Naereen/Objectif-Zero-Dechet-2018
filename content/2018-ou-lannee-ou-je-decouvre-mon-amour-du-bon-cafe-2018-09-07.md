@@ -12,17 +12,20 @@ Quelques détails, si cela vous intéresse.
 ## Où je l'achète ?
 
 J'achète mes cafés et thés dans une boutique spécialisée au centre ville de Rennes.
-Ce n'est pas plus cher que du café milieu de gamme de supermarché, et on peut venir avec ses propres bocaux !
+Ce n'est pas tellement plus cher que du café milieu de gamme de supermarché, et on peut venir avec ses propres sachets ou bocaux (donc, super pour le zéro déchet) !
 
-À Rennes, j'aime bien [Au Fin Café](http://www.aufincafe.com/entry-50-rennes.html), leurs cafés sont entre 5 et 9€ les 250g, c'est très honnête ! Et ils sont délicieux !
+À Rennes, j'aime bien [Au Fin Café](http://www.aufincafe.com/entry-50-rennes.html), leurs cafés sont entre 5€ et 9€ les 250g, c'est très honnête ! Et ils sont délicieux !
 
 ### Exemple
-Pour environ 20€, j'ai acheté trois sachets de 250g de variété différente et j'ai eu un petit sachet en cadeau, fin août 2018 :
+Pour environ 20€, j'ai acheté trois sachets de 250g de variétés différentes et j'ai eu un petit sachet en cadeau, fin août 2018 :
 
 [![cafes-delicieux-et-en-vrac-avec-sachets-reutilises.jpg]({filename}images/cafes-delicieux-et-en-vrac-avec-sachets-reutilises.jpg){width=55%}]({filename}images/cafes-delicieux-et-en-vrac-avec-sachets-reutilises.jpg)
 
 Notez que l'on peut venir avec ses propres boites, ou sachets, ou revenir avec les sachets précédents.
 Je vais arrêter de revenir à chaque fois avec mes sachets puisque je souhaite découvrir de nouvelles variétés de café[ref]Et que les deux vendeuses de la boutique sont un peu strictes : un café du sachet rose ne peut pas aller dans un sachet vert pomme ![/ref].
+
+Notez qu'il faut savoir quelle cafetière sera utilisée, puisque la taille de [la mouture de café](http://www.cafes-marc.fr/le-monde-du-cafe/la-mouture-du-cafe) doit être adaptée.
+Pour une cafetière à piston, il faut une mouture dite grossière. Les vendeuses connaissent très bien leur boulot[ref]Hmmm évidemment j'ai envie de dire, mais en fait non, pas évidemment : beaucoup de professionnel-le-s ne sont pas aussi compétent-e-s qu'il faudrait… Donc, bravo les vendeuses de la boutique "Au Fin Café" ![/ref] et choisiront la bonne mouture si vous précisez quelle cafetière vous utilisez.
 
 ### Conseils
 
@@ -69,5 +72,8 @@ En résumé, attention mesdames et messieurs, la recette la plus difficile de l'
 - Le grand classique que j'apprécie bien le matin : un bon café chaud, deux cuillères à soupe de chocolat en poudre (sucré, ou non sucré et un sucre en plus), et un tout petit de lait… Cela donne un espèce de moka ou de chocolat chaud avec un goût de café… Miam !
 
 ---
+
+C'est tout pour aujourd'hui !
+Je parlerai de thés, une prochaine fois, puisqu'en ce moment (et depuis janvier…) je ne consomme que la fin de mes thés en sachet et des thés offerts en cadeaux !
 
 ## Notes
