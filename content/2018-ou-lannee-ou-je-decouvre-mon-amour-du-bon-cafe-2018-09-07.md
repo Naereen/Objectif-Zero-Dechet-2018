@@ -41,7 +41,7 @@ J'ai acheté, au même magasin, une "**presse française**" de la [marque Bodum]
 
 Plus exactement, j'ai acheté ce modèle : [Caffettiera d'un litre](https://www.bodum.com/fr/fr/1918-01-caffettiera) (à 25€ au jour du 7 septembre 2018).
 
-[![cafetiere-bodum-a-25-euros.jpg]({filename}images/cafetiere-bodum-a-25-euros.jpg){width=65%}](https://www.bodum.com/fr/fr/1918-01-caffettiera)
+[![cafetiere-bodum-a-25-euros-1.jpg]({filename}images/cafetiere-bodum-a-25-euros-1.jpg){width=65%}](https://www.bodum.com/fr/fr/1918-01-caffettiera)
 
 L'offre que proposait la boutique au fin café était d'offrir 250g de café arabica "de base" pour l'achat de la cafetière (environ 5€ offert pour 25€ d'achat !)
 
@@ -58,6 +58,8 @@ En résumé, attention mesdames et messieurs, la recette la plus difficile de l'
 4. Laisser quelques minutes, le temps que l'eau bout, puis verser l'eau qui a bouilli, doucement et sans se brûler,
 5. Ajouter le piston, et le faire descendre *lentement* (genre, vraiment lentement, il ne faut ni brusquer le café ni se brûler !),
 6. Laisser quelques instants reposer, puis servir, dans de petites tasses si c'est un café du déjeuner (repas de midi) assez fort, ou une grande tasse (ou un mug) pour un café du petit déjeuner.
+
+[![cafetiere-bodum-a-25-euros-2.jpg]({filename}images/cafetiere-bodum-a-25-euros-2.jpg){width=65%}]({filename}images/cafetiere-bodum-a-25-euros-2.jpg)
 
 ---
 
