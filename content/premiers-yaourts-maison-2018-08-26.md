@@ -38,4 +38,4 @@ TL;DR : j'ai acheté une petite yaourtière d'occasion, pour essayer et prendre 
 
 Bref, c'est facile, ça ne coûte pas cher, c'est écolo, c'est bon, c'est créatif. Bilan ? **J'adore**.
 
-> La recette que je retiendrai comme la meilleure, ainsi qu'une liste de saveurs et parfums qui fonctionnent bien seront rédigées [sur mon (autre) blogue de cuisine !](https://perso.crans.org/besson/cuisine/yaourts-faits-maison.html).
+> La recette que je retiendrai comme la meilleure, ainsi qu'une liste de saveurs et parfums qui fonctionnent bien sont rédigées [sur mon (autre) blogue de cuisine !](https://perso.crans.org/besson/cuisine/yaourts-faits-maison.html)
