@@ -37,3 +37,4 @@ Au total, en un peu plus d'une heure, nous avons ramassé l'équivalent de 6 sac
 
 [![collecte_dechets_campus_centralesupelec_octobre_2018.jpg]({filename}images/collecte_dechets_campus_centralesupelec_octobre_2018.jpg){width=65%}]({filename}images/collecte_dechets_campus_centralesupelec_octobre_2018.jpg)
 
+> [Voir ce tweet de @Rennes_CS (CentraleSupélec campus de Rennes)](https://twitter.com/Rennes_CS/status/1053280513711058948).
