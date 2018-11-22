@@ -6,6 +6,8 @@ Summary: :-1: Après quelques semaines à m'être lancé dans le "zéro déchet"
 Ce post est là pour établir une liste des choses que je n'arrive pas à trouver en "zéro déchet".
 Je sépare juste entre l'alimentation et le reste.
 
+[Ce ticket](https://github.com/Naereen/Objectif-Zero-Dechet-2018/issues/23), inspiré [de cette vidéo](https://www.youtube.com/watch?v=M-7EHRFwsJU), liste d'autres idées d'améliorations possibles.
+
 ---
 
 ## Alimentation
@@ -16,7 +18,8 @@ Je sépare juste entre l'alimentation et le reste.
 - Des **pruneaux d'Agen** en vrac, pas trouvé.
 - **Sucre à confiture** en vrac, pas trouvé ! Peut-être que je peux acheter de la pectine séparément, et acheter le sucre (normal) en vrac…
 - **Mozzarella** et **feta** en vrac, ça n'existe pas sans emballage plastique je crois. Dommage j'adore ça…
-    > Note : j'ai trouvé de la feta en vrac chez un des fromagers du marché centrale (La Criée), mais pas de mozzarella.
+
+> Note : j'ai trouvé de la feta en vrac chez un des fromagers du marché centrale (La Criée), mais pas de mozzarella.
 
 ---
 
@@ -43,6 +46,8 @@ Produit frais :
 - **Chocolat en poudre** pour chocolat chaud, je n'ai pas trouvé à la BioCoop près de chez moi…
 - Du **cidre**, **vin**, **vinaigre**, **huile** en vrac…
 
+> En [novembre (2018)](XXX) j'ai aussi enfin réussi à acheter en vrac mes huiles et vinaigres, à la BioCoop près de chez moi !
+
 ---
 
 ### Existent mais sont carrément trop chers en vrac
@@ -55,6 +60,9 @@ Produit frais :
 ### A fabriquer soi-même mais pas encore essayé
 
 - **Yaourts** et **fromages blancs** : avec du lait et une yaourtière, je pourrai réduire les déchets,
+
+> En [août (2018)](https://perso.crans.org/besson/zero-dechet/premiers-yaourts-faits-maison-26-08-2018.html), j'ai acheté une yaourtière et depuis je fais mes yaourts maisons chaque semaine ou presque !
+
 - **Pâte à tartiner au chocolat et noisette**, je sais qu'on peut la faire soi-même en achetant les différents ingrédients en vrac. Mais en attendant, je mange de la confiture :apple: :sweet_potato: !
 
 ---
@@ -67,13 +75,14 @@ Produit frais :
 - Préservatifs, **cotons-tiges**, **sacs poubelles**, **mouchoirs**, **timbres** : produits à usage unique par essence, je ne sais pas comment les remplacer…
 
 > Note : en août 2018, j'ai enfin trouvé une alternative durable et zéro-déchet aux cotons-tiges, voir [cet autre article](enfin-une-solution-zero-dechet-pour-ne-plus-utiliser-de-cotons-tiges-02-09-2018.html).
+> Je ne crois pas pouvoir remplacer les autres produits (les timbres par exemple c'est impossible !).
 
 Produits de bureaux :
 
 - Des **feutres**, **cartouches d'encre**, **stylos**, etc…
 - **Papier blanc** pour imprimer des formulaires, des articles etc (le moins possible mais des fois c'est nécessaire)…
 
-Produits qui s'usent et qu'ils faut remplacer, comme les pneus de vélo…
+Produits qui s'usent et qu'il faut remplacer, comme les pneus de vélo…
 
 ---
 
@@ -81,11 +90,15 @@ Produits qui s'usent et qu'ils faut remplacer, comme les pneus de vélo…
 
 - **Éponges** : je sais qu'il y a des alternatives, à laver régulièrement, mais je n'ai pas encore trouvé. (pas beaucoup cherché…).
 
+> Note : depuis mon arrivée à Rennes j'ai chez moi une brosse en plastique à poils très durs, et j'utilise en fait surtout mes mains, mes doigts et cette brosse pour faire ma vaisselle, donc je consomme finalement très peu d'éponges !
+
 ---
 
 ### Existent et à faire soi-même
 
 - **Shampoing et lessive** : je finis mes stocks et j'essaie !
+
+> Voir ces deux tickets : [pour un déodorant maison](https://github.com/Naereen/Objectif-Zero-Dechet-2018/issues/18) et [un shampoing solide maison](https://github.com/Naereen/Objectif-Zero-Dechet-2018/issues/19).
 
 ---
 
