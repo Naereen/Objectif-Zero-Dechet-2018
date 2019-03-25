@@ -17,12 +17,12 @@ Je présentais [cette démonstration](https://bitbucket.org/scee_ietr/malin-mult
 
 Un petit aperçu de notre table :
 
-> [![conference-ICT-a-Saint-Malo-02-07-18-3.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-3.jpg){width=75%}]({static}conference-ICT-a-Saint-Malo-02-07-18-3)
+> [![conference-ICT-a-Saint-Malo-02-07-18-3.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-3.jpg){width=75%}]({static}images/conference-ICT-a-Saint-Malo-02-07-18-3.jpg)
 > Au milieu on voit trois boîtiers blancs avec des antennes. De la gauche vers la droite, on a en premier un émetteur pur qui génère un "bruit" de fond sur 4 canaux radio (avec plus d'interférence sur les premiers canaux), au milieu on a un objet communicant (émetteur et récepteur) qui communique de petits messages, chaque seconde, en qui peut dynamiquement choisir son canal radio. Enfin, à droite on a une autre carte USRP qui représente une station de base (*i.e.*, une grosse antenne sur un bâtiment) qui écoute tout le trafic dans ces 4 canaux, et répond par un acquittement à l'objet dès qu'un message est reçu sans perturbation. Plus de détails [en ligne](https://bitbucket.org/scee_ietr/malin-multi-arm-bandit-learning-for-iot-networks-with-grc).
 
 Et un bonus :
 
-> [![conference-ICT-a-Saint-Malo-02-07-18-4.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-4.jpg){width=75%}]({static}conference-ICT-a-Saint-Malo-02-07-18-4)
+> [![conference-ICT-a-Saint-Malo-02-07-18-4.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-4.jpg){width=75%}]({static}images/conference-ICT-a-Saint-Malo-02-07-18-4.jpg)
 > <center>Il est pas mignon, mon petit Pokémon qui prévient les passants que je reviens rapidement à ma table :sparkles: ?! Généré avec [pokemonsay](https://github.com/possatti/pokemonsay), et ici on voit [Minidraco](https://www.pokepedia.fr/Minidraco).</center>
 
 ---
@@ -71,10 +71,10 @@ Aux restaurants :
 - 😢 Toujours déprimé de voir autant de mégots, de bouteilles, bref de déchets, dans les rues, les plages etc.
   > Je commence à essayer d'en ramasser le plus possible dès que je marche en ville ou le long de la plage. Malheureusement on a souvent l'air seul en faisant ça… Je garde espoir, et je continue !
 
-> [![conference-ICT-a-Saint-Malo-02-07-18-1.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-1.jpg){width=75%}]({static}conference-ICT-a-Saint-Malo-02-07-18-1)
+> [![conference-ICT-a-Saint-Malo-02-07-18-1.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-1.jpg){width=75%}]({static}images/conference-ICT-a-Saint-Malo-02-07-18-1.jpg)
 > <center>😎 Une très belle vue sur Saint-Malo depuis le [Fort National](https://fr.wikipedia.org/wiki/Fort_National) !</center>
 
-> [![conference-ICT-a-Saint-Malo-02-07-18-2.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-2.jpg){width=75%}]({static}conference-ICT-a-Saint-Malo-02-07-18-2)
+> [![conference-ICT-a-Saint-Malo-02-07-18-2.jpg]({static}images/conference-ICT-a-Saint-Malo-02-07-18-2.jpg){width=75%}]({static}images/conference-ICT-a-Saint-Malo-02-07-18-2.jpg)
 > <center>🌕 Une jolie vue après le coucher de soleil sur le Petit Bé et le Grand Bé depuis Saint-Malo (nord ouest) !</center>
 
 ---
