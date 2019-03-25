@@ -9,7 +9,7 @@ Bilan mitigé de ma première tentative de courses complètes dans [une BioCoop]
 
 # Liste d'achats
 
-[![premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg]({filename}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg){width=50%}]({filename}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg)
+[![premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg]({static}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg){width=50%}]({static}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-1.jpg)
 
 - :beers: 4 bières (blanche, blonde, ambrée, IPA) venant d'une brasserie Rennaise, 11.39€
 - 1 kg de bicarbonate de soude, 3.61€
@@ -109,7 +109,7 @@ J'ai l'espoir :pray: que certains autres magasins (à Rennes) me permettent de c
 - :+1: Satisfait des achats locaux (bières) !
 - :+1: Satisfait des achats zéro déchet, mais ça n'en fait pas beaucoup !
 
-[![premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg]({filename}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg){width=30%}]({filename}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg)
+[![premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg]({static}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg){width=30%}]({static}images/premieres-courses-a-la-biocoop-entre-deceptions-et-satisfactions-11-05-2018-2.jpg)
 
 - :-1: Encore des choses à améliorer !
 

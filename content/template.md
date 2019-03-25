@@ -10,4 +10,4 @@ TODO
 ## TODO
 
 ## Photo
-[![blank.jpg]({filename}images/blank.jpg){width=60%}]({filename}images/blank.jpg)
+[![blank.jpg]({static}images/blank.jpg){width=60%}]({static}images/blank.jpg)

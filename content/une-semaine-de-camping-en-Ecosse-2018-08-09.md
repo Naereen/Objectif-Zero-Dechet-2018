@@ -82,7 +82,7 @@ Petit bilan des différentes activités que nous avons fait durant notre semaine
 ## Note finale
 J'ai bien aimé voir ce seau dans une rue (à Kirriemuir) :
 
-[![seau-ecolo-en-ecosse.jpg]({filename}images/seau-ecolo-en-ecosse.jpg){width=55%}]({filename}images/seau-ecolo-en-ecosse.jpg)
+[![seau-ecolo-en-ecosse.jpg]({static}images/seau-ecolo-en-ecosse.jpg){width=55%}]({static}images/seau-ecolo-en-ecosse.jpg)
 
 Je ne suis pas sûr de sa fonction exacte, mais c'est sûrement un seau comme un seau à compost, pour les reste d'alimentation. Il était posé le long d'autres poubelles, j'imagine (j'espère) que le service d'enlèvement des ordures dans cette petite ville triait de façon appropriée les ordures entre non recyclables, recyclables, déchets verts etc.
 

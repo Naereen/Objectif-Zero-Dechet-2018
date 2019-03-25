@@ -13,7 +13,7 @@ Dans mon cas, c'est [au jardin d'Alphonse](https://fabriquecitoyenne.rennes.fr/b
 
 Pour trouver le jardin partagé ou le compost partagé le plus près de chez vous, [ce site](https://rennes.carte-ouverte.org/rennes#categories) est idéal ! ([rennes.carte-ouverte.org](https://rennes.carte-ouverte.org)) Dommage que l'initiative ne soit pas nationale !
 
-[![premier-compost-reussi-21-05-18-3.png]({filename}images/premier-compost-reussi-21-05-18-3.png){width=75%}](https://rennes.carte-ouverte.org/?zoom=18&lat=6125221.71353&lon=-184596.1128&layers=BTT&checked_categories=65,130,131,132&display_submited=false)
+[![premier-compost-reussi-21-05-18-3.png]({static}images/premier-compost-reussi-21-05-18-3.png){width=75%}](https://rennes.carte-ouverte.org/?zoom=18&lat=6125221.71353&lon=-184596.1128&layers=BTT&checked_categories=65,130,131,132&display_submited=false)
 
 ---
 
@@ -33,11 +33,11 @@ Et voilà. 10 minutes tout compris avec le trajet en vélo, juste un poil plus l
 
 Ça ressemble à ça :
 
-[![premier-compost-reussi-21-05-18-1.jpg]({filename}images/premier-compost-reussi-21-05-18-1.jpg){width=50%}]({filename}images/premier-compost-reussi-21-05-18-1.jpg)
+[![premier-compost-reussi-21-05-18-1.jpg]({static}images/premier-compost-reussi-21-05-18-1.jpg){width=50%}]({static}images/premier-compost-reussi-21-05-18-1.jpg)
 
 Et un zoom sur l'intérieur du compost :
 
-[![premier-compost-reussi-21-05-18-2.jpg]({filename}images/premier-compost-reussi-21-05-18-2.jpg){width=50%}]({filename}images/premier-compost-reussi-21-05-18-2.jpg)
+[![premier-compost-reussi-21-05-18-2.jpg]({static}images/premier-compost-reussi-21-05-18-2.jpg){width=50%}]({static}images/premier-compost-reussi-21-05-18-2.jpg)
 
 Voilà un bon début pour cette nouvelle expérience, c'était très facile et c'est encourageant !
 La suite dans un prochain article sur ce blogue !

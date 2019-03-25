@@ -5,7 +5,7 @@ Summary: Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déch
 
 Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plutôt mitigé.
 
-> [![bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg){width=75%}]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg)
+> [![bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg]({static}images/bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg){width=75%}]({static}images/bilan-dun-sejour-dans-les-alpes-30-06-18-1.jpg)
 > <center> :sparkles: Réveil le dimanche matin par ce charmant troupeau de moutons :sheep: et chèvres :goat: ! </center>
 
 ---
@@ -49,7 +49,7 @@ Cinq jours de vacances en France, dans les Alpes, au bilan "zéro déchet" plut�
 - :+1: Toujours ravi d'aller courir :running: dans les sentiers au dessus de chez mes parents, pour une pratique sportive zéro coût, zéro déchet ! 3 fois en 4 jours à Briançon, j'avais rarement fait autant !
 - :+1: Pareil pour le vélo, j'ai eu le temps de faire 3 sorties vélo ou VTT en 4 jours :bicyclist: !
 
-> [![bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg){width=75%}]({filename}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg)
+> [![bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg]({static}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg){width=75%}]({static}images/bilan-dun-sejour-dans-les-alpes-30-06-18-2.jpg)
 > <center> :heart: :mountain: J'aime cette région ! </center>
 
 ---

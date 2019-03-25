@@ -14,7 +14,7 @@ Ils distribuent, *gratuitement*, des seaux à compost individuels, et sont aussi
 Un seau à compost, c'est tout bêtement une petite poubelle, à rajouter en plus chez soi à côté de ses autres poubelles[ref]Déjà au pluriel, car évidemment en 2018 tout le monde fait déjà le tri entre le verre, les déchets recyclables et les "ordures ménagères" non recyclables ![/ref].
 Celui offert par la mairie de Rennes a aussi l'avantage de se présenter avec un petit rappel des règles d'un compost réussi sur le dessus, pour bien prendre le coup de main dès le début et ne pas faire de bêtise !
 
-[![je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg]({filename}images/je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg){width=50%}]({filename}images/je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg)
+[![je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg]({static}images/je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg){width=50%}]({static}images/je-viens-de-recuperer-mon-seau-a-compost-15-05-18.jpg)
 
 Ensuite, il faut prendre l'habitude de jeter certaines de ses ordures "non recyclables" dans le seau à compost, et d'aller le vider de temps en temps dans un grand seau à compost (de 500 litres), dans sa copropriété ou son quartier.
 En 2018, il y a **près de 500 composts partagés sur toute la métropole de Rennes** ! C'est génial !

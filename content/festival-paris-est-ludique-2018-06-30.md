@@ -30,8 +30,8 @@ En plus d'un festival très agréable et divertissant, j'ai apprécié ces deux 
 
 ## Photos
 
-> [![festival-paris-est-ludique-30-06-2018-1.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-1.jpg)
+> [![festival-paris-est-ludique-30-06-2018-1.jpg]({static}images/festival-paris-est-ludique-30-06-2018-1.jpg){width=75%}]({static}images/festival-paris-est-ludique-30-06-2018-1.jpg)
 > <center> :sparkles: Un prototype, nommé "Instinct" très bien conçu, avec des pions en bois et en cartons, et aucun en plastique ! </center>
 
-> [![festival-paris-est-ludique-30-06-2018-2.jpg]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg){width=75%}]({filename}images/festival-paris-est-ludique-30-06-2018-2.jpg)
+> [![festival-paris-est-ludique-30-06-2018-2.jpg]({static}images/festival-paris-est-ludique-30-06-2018-2.jpg){width=75%}]({static}images/festival-paris-est-ludique-30-06-2018-2.jpg)
 > <center> :rabbit: Mention spéciale pour ce [jeu avec des lapins](http://www.iellogames.com/Bunny_Kingdom.html) ! </center>
