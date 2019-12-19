@@ -10,19 +10,22 @@ J'essaie depuis des mois d'acheter au maximum en vrac, pour réduire mes consomm
 
 ---
 
-## Échecs
+## Échec
 
 J'ai cherché mais il n'y en pas en BioCoop (Scarabée), en tout cas pas celles que j'ai essayé à Rennes.
 
-J'avais trouvé sur Internet qu'il y aurait des épices en vrac dans les épiceries fines "Day by Day", mais il n'y a plus de Day by Day à Rennes !
-Celui de l'avenue Saint-Hélier a été remplacé par un magasin de la chaîne Naturalia, et il ne propose pas non plus d'épices en vrac…
+## Day by Day
 
-## Quelle solution ?
+J'avais trouvé sur Internet qu'il y aurait des épices en vrac dans les épiceries fines "Day by Day", et c'est le cas !
+Il y a un magasin Day by Day, rue Saint-Hélier (en face de la boulangerie Coupel).
+Ils ont des tas d'épices en vrac (sels, poivres, les classiques). Les épices françaises sont bio en plus !
+
+## Une autre solution
 
 Fin septembre, un peu par hasard, j'ai **enfin** trouvé des épices en vrac, à l'[Épicerie d'Alphonse](https://www.google.fr/maps/place/Épicerie+d'Alphonse/@48.1090716,-1.6596107,17z/), tout près de chez moi.
 
 Ils étaient un peu embarrassés, puisqu'aucun-e client-e n'était jamais venu-e avec ses propres pots pour acheter des épices (oui je sais, j'étais le premier surpris…).
 Mais après quelques délais, ils ont réussi !
 
-Et leurs épices sont au même prix qu'ailleurs.
+Et leurs épices sont pas chers, au même prix qu'ailleurs.
 Rien d'autre à dire que ceci : **c'est cool, un truc de plus que je fais bien !**
