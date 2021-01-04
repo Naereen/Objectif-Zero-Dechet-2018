@@ -19,7 +19,7 @@ def getText(node, recursive=False):
         else:
             if not recursive:
                 return None
-        L.append(getText(n))
+        L.append(getText(n, recursive=recursive))
     return u"".join(L)
 
 
