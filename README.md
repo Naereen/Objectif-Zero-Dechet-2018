@@ -24,7 +24,7 @@ Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer
 
 - [Pelican](http://getpelican.com/) pour la génération du site :hammer:,
 - [Thème](themes/alchemy) : [`pelican-alchemy`](https://nairobilug.github.io/pelican-alchemy/) :sparkles: (version un peu modifiée, traduite en français :fr:), par [@nairobilug](https://GitHub.com/nairobilug/),
-- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article), [`simple_footnotes`](https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes), [`section_number`](https://github.com/getpelican/pelican-plugins/tree/master/section_number),
+- [Greffons](plugins/) : [`neighbors`](https://github.com/getpelican/pelican-plugins/tree/master/neighbors) :left_right_arrow:, [`global_license`](https://github.com/getpelican/pelican-plugins/tree/master/global_license), [`random_article`](https://github.com/getpelican/pelican-plugins/tree/master/random_article), [`simple_footnotes`](https://github.com/getpelican/pelican-plugins/issues/1022#issue-319066007), [`section_number`](https://github.com/getpelican/pelican-plugins/tree/master/section_number),
 - Mes propres photos :camera: pour chaque pages qui en contient,
 - Et... de l'amour !
 
@@ -34,7 +34,7 @@ Ce blog raconte(ra) mon aventure dans le zéro déchet, dans le but de supprimer
 Ce dépôt git et tous les fichiers contenus sont publiés librement sous les termes de la [Licence MIT](https://lbesson.mit-license.org/) (voir le fichier [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2018.
 
-[![Website perso.crans.org/besson/cuisine](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/zero-dechet/)
+[![Website perso.crans.org/besson/zero-dechet](https://img.shields.io/website-up-down-green-red/http/perso.crans.org.svg)](https://perso.crans.org/besson/zero-dechet/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/Objectif-Zero-Dechet-2018/graphs/commit-activity)
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
 [![GitHub licence](https://img.shields.io/github/license/Naereen/Objectif-Zero-Dechet-2018.svg)](https://github.com/Naereen/Objectif-Zero-Dechet-2018/blob/master/LICENSE)
