@@ -143,3 +143,6 @@ There's actually a lot more to Markdown than this. See the official [introductio
   [5]: http://daringfireball.net/projects/markdown/syntax
 
 ----
+
+Fin du test.
+

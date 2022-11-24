@@ -117,6 +117,7 @@ PLUGINS = [
     # https://github.com/getpelican/pelican-plugins/tree/master/section_number
     # "section_number",
     # # https://github.com/getpelican/pelican-plugins/tree/master/simple_footnotes
+    # # https://pypi.org/project/pelican-simple-footnotes/
     "simple_footnotes",
     # # https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud
 ]
